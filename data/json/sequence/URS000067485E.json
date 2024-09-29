@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000067485E?format=json",
+    "rnacentral_id": "URS000067485E",
+    "md5": "56a8b1d9f6ca0fd80566ed9eaaa4490b",
+    "sequence": "AUAUUGUCCUGGGUGUUCCUGAUCCUGUCUUGAUCUCAGAAGCUAAGCAGAGUCAGGCCUGGUCAGUACUUGGACAGGAGACCACUGAGGAAGCCCAGGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000067485E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000067485E/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

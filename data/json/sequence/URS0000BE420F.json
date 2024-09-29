@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BE420F?format=json",
+    "rnacentral_id": "URS0000BE420F",
+    "md5": "170f366ddc77f4ef20e88fc4e8bd84c2",
+    "sequence": "GUGAACGGCCAUACUAUGCUGAAAACACCGGUUCUCGUCCAAUCAGGUCUAGUUAGUACUUGGAUCGGUGACCGAAUGGGAAUCUCAGAUGCCGUUUUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BE420F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BE420F/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

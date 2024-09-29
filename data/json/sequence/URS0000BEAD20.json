@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BEAD20?format=json",
+    "rnacentral_id": "URS0000BEAD20",
+    "md5": "48712168214f47b44d947e29d4bba872",
+    "sequence": "UCGAUCCACUGGGGGCGCAUUAUGCUGAGAGGCCGCAAGGCCGACCCUUAGAACCUGAUUUCCGGGUAAUACCGGCGUAGGGAAGUGGCGUAAGCGCGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BEAD20/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BEAD20/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

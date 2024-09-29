@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000CECFC?format=json",
+    "rnacentral_id": "URS00000CECFC",
+    "md5": "8f7810744117fd4d344f0daf2fdc3bf2",
+    "sequence": "AAUUGAAAAAUCAACAAAAAAGUUCUCCCCGGCCGGGAAUUGAACCCGGGUCUCGCAUGUGACAGACGCGGAUACUCACCACUAUACUACCGAGGACAUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000CECFC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000CECFC/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RefSeq",
+        "WormBase"
+    ]
+}

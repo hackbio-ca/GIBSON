@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00001E4194?format=json",
+    "rnacentral_id": "URS00001E4194",
+    "md5": "a2c4abd1d8f8bb3941094330691cc2fa",
+    "sequence": "AGGCAACUAAGCCUGCAUUAAUGCCAACUUUUAGCGCACGGCUCUCUCCCAAGAGCCAUUUCCCUGGACCGAAUACAGGAAUCGUGUUCGGUCUCUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00001E4194/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00001E4194/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 103 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 103,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000067C8BC?format=json",
+    "rnacentral_id": "URS000067C8BC",
+    "md5": "e6e6083aeec57ab2e525944a7632568d",
+    "sequence": "AUAGAUGAUGACAAGCUGUCGCCCCAAACGGAUCCUCUCUGUCACACACAGAGGGAGAUGACCGAUCAUUGACAUUAGCCAAACACUGAAAAUUCUGAAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000067C8BC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000067C8BC/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 2 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

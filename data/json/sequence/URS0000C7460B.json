@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C7460B?format=json",
+    "rnacentral_id": "URS0000C7460B",
+    "md5": "d583edb847f1135409eeb9a690f45dde",
+    "sequence": "CAUAAAAAUAAAUAAUAUACCUGUAUAUGCUAGUAAUAUGGUCUAGCGUUUCUACGUCUUACCAUGGGAAAAAGACUCUAUAGGUUAAUGAUUUUGCUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C7460B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C7460B/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

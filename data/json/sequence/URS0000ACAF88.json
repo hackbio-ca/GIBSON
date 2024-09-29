@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ACAF88?format=json",
+    "rnacentral_id": "URS0000ACAF88",
+    "md5": "b1dfb86408626c1d48048afd85e26058",
+    "sequence": "CAUUGGGGCUUGUGCAAUGGGAACCUGUGAACCUCGUCAGGUCCGAAAGGAAGCAGCGAUAAAUAGAUCUUUCCAUGUGCCACGAGGAAACCUGAUGGGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ACAF88/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ACAF88/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 2 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

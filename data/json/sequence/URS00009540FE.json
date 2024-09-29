@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00009540FE?format=json",
+    "rnacentral_id": "URS00009540FE",
+    "md5": "8018224189a7f5bf4e0e4d8fb59db67b",
+    "sequence": "CUCAACCGCAAGGAGGGGGAUGCCUAAGGCAGGGCUAGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00009540FE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00009540FE/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

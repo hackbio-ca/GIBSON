@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000B9A346?format=json",
+    "rnacentral_id": "URS0000B9A346",
+    "md5": "b6f2b15a392970f549d87dc32326a86c",
+    "sequence": "GCUCGGUUAGCUCAGUUGGUCAGAGCGUCGUACUAAUAUCUCCUUCAUGGGAAAUGUUGAGUAAAUGCGAAGGUCAUGAGUUCAAGCCUCAUACUGAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000B9A346/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000B9A346/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

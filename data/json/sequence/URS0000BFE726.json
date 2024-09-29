@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BFE726?format=json",
+    "rnacentral_id": "URS0000BFE726",
+    "md5": "d9b0dbf161d406bca127d4cc5f86e6bd",
+    "sequence": "GUACGGCAGUACAUGUUCUAAAAUUGGAAUGAUACAGAGAAGAUUAGCAUGGAACCUGCGCAAGGAUGAACCGCAAAUUCGUGAAGCGUUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BFE726/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BFE726/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A84126?format=json",
+    "rnacentral_id": "URS0000A84126",
+    "md5": "4a58dab29049243224c631d665c7379b",
+    "sequence": "CGCUGAAGAACGUCGUGGAUUGCGCAUGCGUAGCCAGGAAAAAGUUUUGAGUAGUUCUGCAUUGACUAGGUUCUGCCGGCCCAUUUAUGUUGGAUAAGUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A84126/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A84126/publications?format=json",
+    "is_active": false,
+    "description": "lncRNA from 11 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

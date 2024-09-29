@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A9A7F9?format=json",
+    "rnacentral_id": "URS0000A9A7F9",
+    "md5": "f66e915fad2be28fdb1d6b5643a56b07",
+    "sequence": "AAGACUAUACUUGCAGGGAUCAUUUCUAUAGUUUGUGACUAGAGAAGUUUCUCUGAACAUGUAGAGCACCAGGCAAAACAUUCUGUGACAUCAGCCUUGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A9A7F9/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A9A7F9/publications?format=json",
+    "is_active": false,
+    "description": "snoRNA from 0 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

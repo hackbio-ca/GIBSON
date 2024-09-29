@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BCCA5A?format=json",
+    "rnacentral_id": "URS0000BCCA5A",
+    "md5": "1ab8c626ca99a8c8de5e25136d292a63",
+    "sequence": "CUGAGGACCAGCCUGCUGCCUCCCCAGCUGGACAGAGUUCUCUUGGCUAGGGAUGGACUUCCUAUGAUUGCAGUGUGCUUAUGAUGGUCCAGAACACUCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BCCA5A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BCCA5A/publications?format=json",
+    "is_active": true,
+    "description": "lncRNA from 1 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

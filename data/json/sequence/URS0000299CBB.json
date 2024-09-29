@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000299CBB?format=json",
+    "rnacentral_id": "URS0000299CBB",
+    "md5": "9772ae00131c2dd39c15733ef8bdfbf4",
+    "sequence": "GGCUUCGUGGUCUAGUGGAUACGAUUCGUUCUUCGGGAGAUAAUCCCUUGAUUCACAGAAUUAUUGAAUGAGGUCCCGGGUUCGAUCCCCGGCGAAGCCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000299CBB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000299CBB/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 7 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 7,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

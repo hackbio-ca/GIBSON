@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000669F72?format=json",
+    "rnacentral_id": "URS0000669F72",
+    "md5": "65dd0b3834c5d834b0575ce532be73fb",
+    "sequence": "GGCUGGUCUGAGUGCAGUGGUUUCACAAUUAAUUCAUCACACCCAGUUACAGAUUUCUUUGUUCCUUCUCCACUUCCACGGCUUCACGUGACUAGCAAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000669F72/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000669F72/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 2 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

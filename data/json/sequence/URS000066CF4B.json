@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066CF4B?format=json",
+    "rnacentral_id": "URS000066CF4B",
+    "md5": "437aeb76ae619a6ca7613f6a5952f1fa",
+    "sequence": "UGCUAUGAUGCUGUAAUUUGCGCCUUACUCUGUUUUCAGUGACAGUUGCCUGCUGUCAGUAAGCUGGUACAGAAGGUUGCUGAAAAAGUUUCUCUGAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066CF4B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066CF4B/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 4 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

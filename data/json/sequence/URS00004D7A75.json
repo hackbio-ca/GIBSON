@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00004D7A75?format=json",
+    "rnacentral_id": "URS00004D7A75",
+    "md5": "2288989512dd07316140ed4dc4232c3a",
+    "sequence": "AUGAUGCAGAUGAGGAGGCACAAGAUUUAAUGGGUAAUUUGCGUCUGAGGCAUCUCUGUGAUGUCACACCCUUUUUCACCUUGGAGAUCUGAUGCAUCUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00004D7A75/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00004D7A75/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 9 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 8,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066157D?format=json",
+    "rnacentral_id": "URS000066157D",
+    "md5": "4b473bf26ac396444d343993d44db023",
+    "sequence": "GAUAAAAUUGUCCCUUCAUCCAAUAAAAUUGAAACAAGAAAAUUAGCAUGAUUCCUGCGCAAGGAUGACACAUACAAAUCGAGAAAUUGUCUAAAUUUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066157D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066157D/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 3 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ACAB3A?format=json",
+    "rnacentral_id": "URS0000ACAB3A",
+    "md5": "581b350a25658a00bc5cde75ba3c0040",
+    "sequence": "CGGCAGGUCUUACACGACCAGCUCCUGCUGAAUCUCCCCAGGGCCGGAAGGCAGCAAGGAUACGCGGUUGUAGCGGUGCGAUGUGAGUAGCCUGCCUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ACAB3A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ACAB3A/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 3 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

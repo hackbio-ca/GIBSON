@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A85AF5?format=json",
+    "rnacentral_id": "URS0000A85AF5",
+    "md5": "38704cb7352bdeba24c26873b880ed5c",
+    "sequence": "GGCUGGCCCAAGUGCAGUGGUGUUUACAGCAAUUGAUCACAACCAGUUACAGAUUCCUGUAUCUUUCUCCACUCCCACUGCUUCACCUGACUAGCCUAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A85AF5/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A85AF5/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 7 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 7,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

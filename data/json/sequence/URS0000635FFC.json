@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000635FFC?format=json",
+    "rnacentral_id": "URS0000635FFC",
+    "md5": "cadc39b5386f41ff3d56ca0e5639e2d9",
+    "sequence": "GGCCGGUCUGAGUACAGUGGUAUUUACAACUAACUGAUCACAAAAACUAAUAGAUUUAUUUGUUCCUUCUCCACUCCCACUGCUUCACUUGACUAGAAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000635FFC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000635FFC/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 2 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "GeneCards",
+        "Rfam"
+    ]
+}

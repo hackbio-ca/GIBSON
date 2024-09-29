@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000062E92D?format=json",
+    "rnacentral_id": "URS000062E92D",
+    "md5": "41de009f9139008d2e8ae395bca402c3",
+    "sequence": "CUUUAAAAAUCUGGAUCAAGCUGAAAAUUGAAACACUGAACAACGAAAGUUGUUCGUGAGUCUCUCAAAUUUUCGCAACACUGAAGUGAAACAUCUUCGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000062E92D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000062E92D/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

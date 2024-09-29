@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000099F137?format=json",
+    "rnacentral_id": "URS000099F137",
+    "md5": "81f48d26117dc2f673885ec09e4a6063",
+    "sequence": "GGCCUAACCUUAGGGAAGGAUGCUCCGAGGGUGUGGUUAGCGAUUGGGGUAAGUCGUACAAGGUAUCCGUACGGGAACGUGCGGAUGGAUCACCUCUUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000099F137/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000099F137/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

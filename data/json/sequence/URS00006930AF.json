@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006930AF?format=json",
+    "rnacentral_id": "URS00006930AF",
+    "md5": "65170e8e1e0dc778b1697593e3eba2a9",
+    "sequence": "AUACAUUUGCAUCUAGUGUAGGAAGCGUGCAAAGUUACGCCUUUAUAAGAUAUGAUAGAGCUGUAAGGAAUGCGUUGGAGAUCAAACUCUGUAAAAUCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006930AF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006930AF/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

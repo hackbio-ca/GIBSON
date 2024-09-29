@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BAA131?format=json",
+    "rnacentral_id": "URS0000BAA131",
+    "md5": "d260dd1fcba9e8bbf049195195260805",
+    "sequence": "GGCCGCUUGGCCCAAUGGUAAGGCGUCUGACUACGACCGAGCAUGUAAAACAUGAUCGAAAGCAAUCAGGAGAUUCUGGGUUCGAGCCCCAGGGUGGUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BAA131/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BAA131/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 3 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

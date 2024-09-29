@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000627F94?format=json",
+    "rnacentral_id": "URS0000627F94",
+    "md5": "d71a6c5a0bb1ca0f3151c86e8ee27a71",
+    "sequence": "CGCGGUGUAGCCCCGUUUCGGACACUCUCUGCAGCCGGUCACAGCCCCAAAGAGAAGCGGUGGCGCUCGCCAUGUAGAAGGAGAGAUCCGCCGUCCGUGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000627F94/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000627F94/publications?format=json",
+    "is_active": false,
+    "description": "lncRNA from 0 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

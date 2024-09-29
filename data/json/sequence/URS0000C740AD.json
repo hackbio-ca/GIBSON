@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C740AD?format=json",
+    "rnacentral_id": "URS0000C740AD",
+    "md5": "d4dc9e0698b27b89a8a612a2f3b55933",
+    "sequence": "GAGCGAUGCAGAACGGUGGACAUGGAAGUCGGAUCCUGCUAAGGAGUGCGUAACAACGCACCUGCCAAACUAACUAUCCUUGAAAAUGGGUGGCGCUGUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C740AD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C740AD/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

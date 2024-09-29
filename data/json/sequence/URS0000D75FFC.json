@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000D75FFC?format=json",
+    "rnacentral_id": "URS0000D75FFC",
+    "md5": "b6ea10220cc4ffdfc1317c5286f40631",
+    "sequence": "AUCUCUUCAGAUACCUUUUGAAGUUGGACCAAUGCAGAGGAGAUUAACAUGGCCCCUGCACAAGGAUGUCAGGUUUAAUUGAGAAAAGGUCCAUUUUUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000D75FFC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000D75FFC/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants"
+    ]
+}

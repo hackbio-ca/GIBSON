@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000B6314D?format=json",
+    "rnacentral_id": "URS0000B6314D",
+    "md5": "570316b52b5a0b45bae16356d04538e6",
+    "sequence": "GGCUGGGCCCUGUGCAAUAGGACCCUGUGAACCCCGCCAGGUCCGGAAGGAAGCAACGGUAAGCAGUCAGUUCUGUGUGCCGCAGGAUCACCUGGCCCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000B6314D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000B6314D/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 2 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

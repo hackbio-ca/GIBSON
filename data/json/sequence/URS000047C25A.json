@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000047C25A?format=json",
+    "rnacentral_id": "URS000047C25A",
+    "md5": "67a07ea0fc5d353b9a2c3b84dee7c012",
+    "sequence": "GCUGCUUGUGACGUCGCGAGAAGUCCACUGAACCUUAUCAUUUAGAGGAAGGAGAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000047C25A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000047C25A/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 6 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 6,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

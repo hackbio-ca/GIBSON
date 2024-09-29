@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000270FF1F?format=json",
+    "rnacentral_id": "URS000270FF1F",
+    "md5": "590e6df725868047574489cc9842db73",
+    "sequence": "GGGUAAGUCUUACACGACCAGCUCCCUUCCACUCCCCCAGGGUCGGAAGGCAGCAAGGGUACGAAGGUUGUAGCGGUGCGAUGUAAGGAGCUUACCCUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000270FF1F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000270FF1F/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

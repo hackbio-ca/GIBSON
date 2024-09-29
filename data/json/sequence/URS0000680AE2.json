@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000680AE2?format=json",
+    "rnacentral_id": "URS0000680AE2",
+    "md5": "eadab07b69d34717300fe2a317a6f8c9",
+    "sequence": "GCCUUCGGGCAUUUGGUCAAUUUGAAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCACUAAGGAUGACACGCUCAAUCAAAGAGAAGCUACCAUUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000680AE2/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000680AE2/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 3 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

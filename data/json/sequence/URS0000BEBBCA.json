@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BEBBCA?format=json",
+    "rnacentral_id": "URS0000BEBBCA",
+    "md5": "4f4810d30e473f45cd70fec89be4b853",
+    "sequence": "GCCUUCUUAGCUCAGGGGUAGAGCGCGUCACUAGUACGAUUCGAAUUCAAUUCGACAUCAGUCAAUGACGAGGUCAUUGGUUCAAAUCCAGUAGGAGGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BEBBCA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BEBBCA/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

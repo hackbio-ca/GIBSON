@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000652CDC?format=json",
+    "rnacentral_id": "URS0000652CDC",
+    "md5": "183b3e734fede1cd0a685c7414468096",
+    "sequence": "CAUGGGGAAGCAGAUUUGGGUACCACCCAAGUAUUGACUCACCCAUCAACAACCGCUAUGUAUUUCGUACAUUACUGCCAGCCACCAUGAAUAUUGUACA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000652CDC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000652CDC/publications?format=json",
+    "is_active": false,
+    "description": "antisense_RNA from 0 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

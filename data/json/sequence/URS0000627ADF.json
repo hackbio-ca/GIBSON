@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000627ADF?format=json",
+    "rnacentral_id": "URS0000627ADF",
+    "md5": "2d356f6684253be8995a2c469f2e71a0",
+    "sequence": "CAUGCCACCCUGAACAAGCCCGAUCCCAUCUGAUCUCAGAAGCUAAGCAGGGUCGGGCCAGGUUAGUACUUGGAUGGGAGACCACCUAAGAAGACGAGGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000627ADF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000627ADF/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

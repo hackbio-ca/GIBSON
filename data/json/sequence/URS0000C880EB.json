@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C880EB?format=json",
+    "rnacentral_id": "URS0000C880EB",
+    "md5": "fadd796234fd14e78a3a924dcc5911d8",
+    "sequence": "UCCCGGCUAGCUCAGUCGGUAGAGCGUCAGACUCUUAAUAGAGUCUCUUCGGUUGCGAAGAGUUAUCUGAAUGUCGUGGGUUCGAGCCCCACGUUGGGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C880EB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C880EB/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

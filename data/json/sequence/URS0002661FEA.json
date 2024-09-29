@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0002661FEA?format=json",
+    "rnacentral_id": "URS0002661FEA",
+    "md5": "9dde5dd6e93700231528881fc2f00e74",
+    "sequence": "GGUUCUUGUGCUUGCACAUUGGUCUCUUCACGCACAAACAUCGAACCCUUGUGGCAUCUGUGUUUGUGUGAGAAGAGGCCAAUGUCCAAGCGGAAAAACC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0002661FEA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0002661FEA/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

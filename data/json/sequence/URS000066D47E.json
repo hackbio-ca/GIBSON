@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066D47E?format=json",
+    "rnacentral_id": "URS000066D47E",
+    "md5": "43bd5992c7c0a258f25d34db7a266b11",
+    "sequence": "AGGCUGGCUUUAGCCCGCGGUUCCUUUGAGUCUGGCUUCCCAAUUGCCCUGGCCGAUUAGUCUGGUGGUUCAAGACCCGCGGGCACUCUCUAGUCCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066D47E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066D47E/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 2 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

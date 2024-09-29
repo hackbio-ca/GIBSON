@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000453764?format=json",
+    "rnacentral_id": "URS0000453764",
+    "md5": "5aa90b7c6e4528e93ca954af9308e1f4",
+    "sequence": "GGCCGCGUGGCCUAAUGGUUAAGGCGCUGGUUUUCGGUUUUGUCUUUAGAGACGAAAGUCUGUCCACCAGAGAUUGUGUGUUCAAAUCACACCGUGGUCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000453764/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000453764/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 9 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 9,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C766E0?format=json",
+    "rnacentral_id": "URS0000C766E0",
+    "md5": "d96dcdb2b0a55dd1dd21d4939839f047",
+    "sequence": "GCGCUUUAGAAGCACAUAUACUAAAAUUGGAAUGAUAGAAAAGACUAGCAUGGUCCCUUACAAGGAUGGCACACAAAUUCAUGAAGCAUUCUGUGCUGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C766E0/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C766E0/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

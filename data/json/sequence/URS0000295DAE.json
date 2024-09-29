@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000295DAE?format=json",
+    "rnacentral_id": "URS0000295DAE",
+    "md5": "96ce8e6b5d585cb08b53c7ba6189c5aa",
+    "sequence": "GUAGGGUGAUGAAAAAGAAUCCUUAGGCGUGGUUGUGGCCGUCUUGGUCACCUGUGUGCCACUUGCCAAUGCAAGGACUUGUCAUAGUUACACUGACUGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000295DAE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000295DAE/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 2 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "GeneCards",
+        "Rfam"
+    ]
+}

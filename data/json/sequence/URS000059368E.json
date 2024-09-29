@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000059368E?format=json",
+    "rnacentral_id": "URS000059368E",
+    "md5": "0f7fd454bb3cc782b22e7eaf55da40d7",
+    "sequence": "AACCGCCGUAUGCGGAACCGCAUGUACGGUGGUGUGAGAGGUCGGUGAACACGAAAGUAGGAGAUAAGCACCUAUGAUUAGUGUUUACCUCCUACUCGAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000059368E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000059368E/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 3 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "RiboCentre"
+    ]
+}

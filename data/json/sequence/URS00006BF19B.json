@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006BF19B?format=json",
+    "rnacentral_id": "URS00006BF19B",
+    "md5": "fbd64ff7f076a7f1b32af1617842f57c",
+    "sequence": "CGCUGGUCCGAGUGCAGUGGUGUUUACAACUAAUUGAUCACAACUAGUUACAGAUUAUUUGUUCCUUCUCCACUCUCACUGCUUCACUUGACUAGCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006BF19B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006BF19B/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 4 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "GeneCards",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000660B4E?format=json",
+    "rnacentral_id": "URS0000660B4E",
+    "md5": "4aab2b1876b05227485efc77a3d6b46f",
+    "sequence": "GGGCCGGCUUUAGCCCAGCGGUUCCUUUAAGUCUGGCUUCCCAACCACCCGGCCGAUUGGUCCGGUGGUUGGAGACCCGCGGGCGCUCUCCAGUCUUUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000660B4E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000660B4E/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 2 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

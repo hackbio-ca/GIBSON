@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C744AE?format=json",
+    "rnacentral_id": "URS0000C744AE",
+    "md5": "d5581cf396bd8d864334665dd3e5e78c",
+    "sequence": "UAUUGGUCCGAAGGUAGCAAGUUAUCUCAAUCGAUUCUUCACAGUCAGUUACAGAUCCAGCUCCUUCCCCCUUCUGACUACUGCACUUGACUAGUCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C744AE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C744AE/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 4 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

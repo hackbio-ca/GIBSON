@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AB866A?format=json",
+    "rnacentral_id": "URS0000AB866A",
+    "md5": "ae19d30c6eef2380d288139dd5636b94",
+    "sequence": "UCCCACUUUUUGGGGAGCUUUAGCUGAGAGGUUACGAAAGUAACGACCCUUGAACCUGAUCUGGGUAAUUCCAGCGGAGGAAUGAGAAAUGGAUAUAGAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AB866A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AB866A/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

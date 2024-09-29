@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000261B0FA?format=json",
+    "rnacentral_id": "URS000261B0FA",
+    "md5": "1da368260ce3ae6bf76ca78fb237dd98",
+    "sequence": "UAUAUAUAUAUAUAUAUGUGUGUGUGUGUAUAGAAAUGAUUGAGAUUCAAUUGAAUUAGGUACUUAAGUUGAAGCAUCAAAUCAGUGCAGUAUUAUCUGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000261B0FA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000261B0FA/publications?format=json",
+    "is_active": true,
+    "description": "lncRNA from 1 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

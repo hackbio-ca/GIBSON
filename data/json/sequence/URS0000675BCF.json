@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000675BCF?format=json",
+    "rnacentral_id": "URS0000675BCF",
+    "md5": "16d3c4f0166606d8ed66d7fffa9cd590",
+    "sequence": "GUGCUCGCUGGGCAGCACAGACACUAGCACAGGAACCAUACAGAGAAGAUCAGCAUGGCUCUGUGCGAGGAUGACAAUGGAAGAGAUGAAGAAUGAAGCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000675BCF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000675BCF/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000274CFDD?format=json",
+    "rnacentral_id": "URS000274CFDD",
+    "md5": "8b2b87d20cf5b95b04be2c76bfc03588",
+    "sequence": "UCAGGUGGCUAUAGCACAAGGGUUCCACCUCUUCCCAUUCCGAACAGAGAAGUUAAGCCUUGUCACGCCGAUGGUACUGCGUCACAGUGGGAGAGUAGGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000274CFDD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000274CFDD/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

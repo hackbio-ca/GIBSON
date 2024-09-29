@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000269B96F?format=json",
+    "rnacentral_id": "URS000269B96F",
+    "md5": "d0b053e26319b40fe3558eb3cd4d9e1d",
+    "sequence": "CGGGUAAGUCCUACACGACCAGCUCCCCGGGAACUCCGCCAGGCCUUGAUCGGAGCAACGGUACCGGGUUGUAGCGGUGCGAUGUAGUAAGCUUGCCCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000269B96F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000269B96F/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

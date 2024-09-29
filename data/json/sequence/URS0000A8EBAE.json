@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A8EBAE?format=json",
+    "rnacentral_id": "URS0000A8EBAE",
+    "md5": "8d21df07c4f9b551b0912b4a5cc9bc39",
+    "sequence": "AUAUUAGGCUGGUGCAAAAGUAAUUGCAGUUUUUGCCAUUACUUUUAAUUUUUGCCAUUAAAAGUAAUGGCAAAAACCACGAUUACUUUUUCACCAACCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A8EBAE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A8EBAE/publications?format=json",
+    "is_active": true,
+    "description": "miRNA from 1 species",
+    "rna_type": "miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

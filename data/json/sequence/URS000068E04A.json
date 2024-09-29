@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000068E04A?format=json",
+    "rnacentral_id": "URS000068E04A",
+    "md5": "026620bb744d03e59d52fead7d28c11c",
+    "sequence": "AGCAGAGCAGUGUGAGGACAUAUGUGUGGAAGAUUCUAGAGGCUCUUGACGCAAUCUAGGUGAAAGUUGGUGAGGGGGGAGCAGCAGAGAAAAUCACUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000068E04A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000068E04A/publications?format=json",
+    "is_active": true,
+    "description": "lncRNA from 1 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

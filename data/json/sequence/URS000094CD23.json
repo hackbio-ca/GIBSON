@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000094CD23?format=json",
+    "rnacentral_id": "URS000094CD23",
+    "md5": "c2d81f8122c4e66d4a43f4aa0a906623",
+    "sequence": "CCAAAGGUAGUGAGUUAUCUCAAUCAAUUGUUCACUGUCAGUCACAGAUUGAACUCCUCGUUCUAUUCCUUCCCUCUUUCUCACUACUGAACUUAACUAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000094CD23/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000094CD23/publications?format=json",
+    "is_active": false,
+    "description": "Y_RNA from 0 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

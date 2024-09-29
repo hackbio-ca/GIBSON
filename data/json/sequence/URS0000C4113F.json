@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C4113F?format=json",
+    "rnacentral_id": "URS0000C4113F",
+    "md5": "7449e28541503a34f740765eecfd1df9",
+    "sequence": "AAUGAAAGUAUCAACGUGUAUUUCCUAGACCGAGAGGUCCGGGUAAACCGCUGAGCCACUUUCAUGCUUGGGAUUGUGAACUGAAACUGUUCACAUGAAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C4113F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C4113F/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

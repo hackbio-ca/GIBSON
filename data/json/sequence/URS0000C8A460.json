@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C8A460?format=json",
+    "rnacentral_id": "URS0000C8A460",
+    "md5": "ff0f8f742b10fa933f25f8aee4c97f2e",
+    "sequence": "GGUGAAGUGGCCGAGUGGUCUAAGGCGUUGGAUUUAAGCUCGUAGAGUUGUGCUUCCCAAUGGGGGAAACCCCGCGCGAGUUCGAACCUCGCCUUCACCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C8A460/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C8A460/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

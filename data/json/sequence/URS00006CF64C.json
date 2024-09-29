@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006CF64C?format=json",
+    "rnacentral_id": "URS00006CF64C",
+    "md5": "fe53fbc07cb6bc463c5b1be53e27f22a",
+    "sequence": "GCCGGGGUGGCCGAGUGGACUAAGGCGGUGGACACUCAUAAGCCACAGUUGAGAUCCACUACCCGUUAAGGGUGCCCGGGUUCAAAUCCCGGCCCCGGCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006CF64C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006CF64C/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

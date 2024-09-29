@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006C384C?format=json",
+    "rnacentral_id": "URS00006C384C",
+    "md5": "8c9fdda82dc9071ebf3612e283b7dcaf",
+    "sequence": "GUCGGGAUAGCCAAGCUUGGUCCAAGGCGGACGCCUCGAAAUCUCAAAACAGGAUAGCGUCUGUGCUCUGCACACGGGGGUUCAAAUCCCUCUCCCGGCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006C384C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006C384C/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 3 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

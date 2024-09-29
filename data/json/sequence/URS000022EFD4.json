@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000022EFD4?format=json",
+    "rnacentral_id": "URS000022EFD4",
+    "md5": "c10501f5b3d41f2ee2a982797cd35a6f",
+    "sequence": "GUGUGAAUUGCAGAAUUCCGUGAACCAUCGAAUCUUUGAACGCAUAUUGCGCUCAACUCCUCGGAGAAGAGCAUGUCUGCCUCAGCGUCGGUUUACACCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000022EFD4/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000022EFD4/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

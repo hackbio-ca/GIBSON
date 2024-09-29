@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000522DFB?format=json",
+    "rnacentral_id": "URS0000522DFB",
+    "md5": "e87e48eb23e97406fa0a9b1562600ec7",
+    "sequence": "AGUAGGAUAUAUAUACUACCCUGUCCUAAAAAUGUACGUCCCGAUACAUAAUCAAAAAUGAUAUCAUUUAGGACGGAGGGAGUAAUAAUUCCUAGUUACA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000522DFB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000522DFB/publications?format=json",
+    "is_active": true,
+    "description": "misc_RNA from 1 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

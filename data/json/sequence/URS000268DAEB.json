@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000268DAEB?format=json",
+    "rnacentral_id": "URS000268DAEB",
+    "md5": "6220fc5fc046198e130d2b74c6af0e0c",
+    "sequence": "AGCACCUGCGGCGGACAAAGCAUUCUCCGAAGAACGGCUGUGCAGGUAGCCGGAGAGUGUACGGUCUGGUAACAUACGGAUGCCGUAUGUUAAAGGCAUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000268DAEB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000268DAEB/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

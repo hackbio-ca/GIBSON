@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000271CAD?format=json",
+    "rnacentral_id": "URS0000271CAD",
+    "md5": "be9fd65f5f75f039cdcea409033f787f",
+    "sequence": "AAGGUCUUCGGAUUGUAAACUUCUUUUGGAGGGGAUGAAUGUUCCGGUGAAUAACCGGACGCGACAGUACUCUUCGAAUAAGCCACGGCUAACUACGUGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000271CAD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000271CAD/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

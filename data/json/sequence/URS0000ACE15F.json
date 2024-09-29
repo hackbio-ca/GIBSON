@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ACE15F?format=json",
+    "rnacentral_id": "URS0000ACE15F",
+    "md5": "38a7115524dd0b264f5eaff7cb9110e5",
+    "sequence": "GGUUUGCGUGAGGGAUGGAAGCGGUUAUCCUUUUACGGCUGUAGUCCCGAUCCUUCGGGACGGAGGCCGUAAAAGAUAAAAGCGGACAGCCCGACAGCGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ACE15F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ACE15F/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

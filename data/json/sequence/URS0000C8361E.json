@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C8361E?format=json",
+    "rnacentral_id": "URS0000C8361E",
+    "md5": "f1f160a84d76f51add09d3877f7dd3e3",
+    "sequence": "GCUCGCGUAGCUCAGUUGGUUAGAGCUUCGUACUAAUACUUCAGCGUCAGUUGAAAUCUUAGUGAUGCGGAGGCCGCAGGUUCAAGCCCUGCCGUGAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C8361E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C8361E/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

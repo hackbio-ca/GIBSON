@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000269F5FF?format=json",
+    "rnacentral_id": "URS000269F5FF",
+    "md5": "ee628ac638e0013a2091dcfa29d2efa4",
+    "sequence": "GUUAUCAAGAAAGGCGGAGGGAAUAGACCCGGUGAAGCCUUGGCAACCCUUUUCCCAUAAAGAAGGUGCUACAUUCUAUCCUCAAAAGUAGGGCAGAUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000269F5FF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000269F5FF/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

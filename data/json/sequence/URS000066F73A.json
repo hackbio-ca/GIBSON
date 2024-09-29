@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066F73A?format=json",
+    "rnacentral_id": "URS000066F73A",
+    "md5": "51e63ae8536e9806f7343f87ee03633a",
+    "sequence": "GUCAACAGCCAUACCACCCUGAAUGCACCUGAUCUCGGAAUCUAAGCAGGGUUGGGCCUGGUUAGCACUUGGAUGGGAGAAGUUGUGGAUGCUCAAGAUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066F73A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066F73A/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 2 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

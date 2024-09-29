@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00028D730C?format=json",
+    "rnacentral_id": "URS00028D730C",
+    "md5": "a818e3e27b03393dbb90ca062ef0b3c1",
+    "sequence": "GCGACCUGGGGGGCUGAAUUUGGCUUGCUAGAGCCAAAUUCGUUAGCAUAGCGUCGGUCUACGGAACCGAAGGUCAGAGGUUCGAAUCCUCUCGGGCGCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00028D730C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00028D730C/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 0 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

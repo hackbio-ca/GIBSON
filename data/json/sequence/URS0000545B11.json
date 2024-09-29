@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000545B11?format=json",
+    "rnacentral_id": "URS0000545B11",
+    "md5": "07edb5f3c1fc981a17f6fed957e5db33",
+    "sequence": "GCGGGGGUGCCCGAGCCUGGUCAAAGGGGGCGGACUUAAGACCCCCAAGUAAGAGAUCCGCUGGCGAAGGCCUGCACGGGUUCGAAUCCCGUCCCCCGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000545B11/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000545B11/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 9 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 9,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

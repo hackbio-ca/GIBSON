@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000004410E?format=json",
+    "rnacentral_id": "URS000004410E",
+    "md5": "0177ef13ad3373fa566e2c4aaadd43dd",
+    "sequence": "AUCCGGGCGAGAUAAAGCGAGGAUUGCGAAAUAUUUAAAACCCCACUCUUAUUAACUUUAUAUAAUAAUUAAAUCAUGAUACAUGAAUUAAAAAAAAGAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000004410E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000004410E/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

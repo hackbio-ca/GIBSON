@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000067E467?format=json",
+    "rnacentral_id": "URS000067E467",
+    "md5": "64f3ba21201cfbc40f2d8a0e648604a7",
+    "sequence": "GGUUGGAUUACUGGGCGAAUACUCCUAUGGCAGAUAGCUUUGCCUAGAUAUGCAAGCAAAAUGCUUCUCUGCCAAAGGAGAUUUGCCCCGCAAUUCAUCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000067E467/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000067E467/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

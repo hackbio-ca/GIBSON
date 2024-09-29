@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000003F235?format=json",
+    "rnacentral_id": "URS000003F235",
+    "md5": "32c0ef94b13c2f2c73adb05f8e66aa1a",
+    "sequence": "AAAAAAAAGUUCGGUUUCGAUUUAGAAUUCCUACGCUUUACCUUUUUUAUAUAUAAUAUUGGCAAGGCGUUUGAAUUCUGAAUCCGAAUCAACUGUUUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000003F235/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000003F235/publications?format=json",
+    "is_active": true,
+    "description": "miRNA from 1 species",
+    "rna_type": "miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

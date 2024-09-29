@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C7908C?format=json",
+    "rnacentral_id": "URS0000C7908C",
+    "md5": "de5ba307aa9282344a8f8e0d4cd181de",
+    "sequence": "UGAAAAAAUAAAAGUCACCUUAGCAAAAUUGGAACAAUACAGAGAAGAUUACCCAUGUGAAAUGAUGACACGCUCUAAUCAAGAUUUGGUAUGUUUUCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C7908C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C7908C/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 3 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BECCF7?format=json",
+    "rnacentral_id": "URS0000BECCF7",
+    "md5": "574c1addfec27b605ed8185a61e470b7",
+    "sequence": "UCCCGGCUAGCUCAGUCGGUAGAGCGUCAGACUCUUAUUCAAGGGUUUCCGAGCUUUGUUCGGUAUCUGAAUGUCGUGGGUUCGAGCCCCACGUUGGGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BECCF7/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BECCF7/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 3 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C4401F?format=json",
+    "rnacentral_id": "URS0000C4401F",
+    "md5": "79f186fa7298abd1260fc3d5c7c0ab3d",
+    "sequence": "GCGCUAAUAGCUCAGUUGGGAGAGCGUCAGACUGAAGUCAAUUUGGUCCACCACAUCCGGGGUAAUCUGAAGGUCACCCGUUCAAUCCGGGUUUGGCGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C4401F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C4401F/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

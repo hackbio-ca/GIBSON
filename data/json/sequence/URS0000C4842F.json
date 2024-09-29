@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C4842F?format=json",
+    "rnacentral_id": "URS0000C4842F",
+    "md5": "81f040c9de24175b2f0a64942adf13c2",
+    "sequence": "CAGCCCCUGCGUGACUGGCGAUAGAACCCUCGGGUUCAAGGUGGAGCAUCCCACCGUGAAGCGCAGGGCGUCGUUUUUGCCGUUCGCCUGGGCAGCCGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C4842F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C4842F/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

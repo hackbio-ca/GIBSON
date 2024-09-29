@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C2CADD?format=json",
+    "rnacentral_id": "URS0000C2CADD",
+    "md5": "4d9e7dd6fcd988a94293598528e4277d",
+    "sequence": "UACAUAUAGUAAAAUUGGAACACUGGAACGGUAACAGAGAAGAUUAGCAUGGCUCCUGCACAAAGAUGACACGCAAAUUCAUCAAGCAUUCCUUUUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C2CADD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C2CADD/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

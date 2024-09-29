@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000622A03?format=json",
+    "rnacentral_id": "URS0000622A03",
+    "md5": "d1f5c110047d9e443210d2bfc1fb045f",
+    "sequence": "CAUGGGGAAGCAGAUUUGGGUACCACCCAAGUAUUGACUCACCCAUCAACAACCGCUAUGUAUUUCGUACAUUACUGCCAGCCACCAUGAAUAUUGCACG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000622A03/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000622A03/publications?format=json",
+    "is_active": false,
+    "description": "antisense_RNA from 0 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

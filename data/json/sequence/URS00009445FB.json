@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00009445FB?format=json",
+    "rnacentral_id": "URS00009445FB",
+    "md5": "20a31ddf53cf9ff21c937e0f995d8223",
+    "sequence": "GGCCUAAUAGUGUAGUGGUUAACAUACCUCUUUCGGGUAGUCCCCCCUUCCCUUUGCGAGGAAUUAGAGGUGAUCCCUGGUUCGAAUCCUGGUUAGGCCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00009445FB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00009445FB/publications?format=json",
+    "is_active": false,
+    "description": "tRNA from 0 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

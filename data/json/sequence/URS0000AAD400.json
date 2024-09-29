@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AAD400?format=json",
+    "rnacentral_id": "URS0000AAD400",
+    "md5": "c3040ec59f5773bed9f8b1fd999800b7",
+    "sequence": "GGCCCCUUCAAAAGUAGAGUAUCUUAGUUAUUCACAGUCAGUUAAAGAUUGAACUUCUCCUCUUUUCCCCCUUCUUACUACUGCCAUUGAUGAGUCUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AAD400/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AAD400/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 2 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl"
+    ]
+}

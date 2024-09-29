@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000445BF1?format=json",
+    "rnacentral_id": "URS0000445BF1",
+    "md5": "37201cdca4c39518f38470ec89e2ad0b",
+    "sequence": "GGACUCUGAAGAGACUUAAGUUAAGAUACUAUAAGUCACCGAAGAAGCAAAAUAAUAUUAAAUUAUUAAAUCUUUCAGGUAUACAAACAGGGAUAUAUAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000445BF1/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000445BF1/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

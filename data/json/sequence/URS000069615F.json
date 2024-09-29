@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000069615F?format=json",
+    "rnacentral_id": "URS000069615F",
+    "md5": "09e48f4236575b2c161a201da305c0ee",
+    "sequence": "UUGCUUUGGCAGCACAUAUACUAAAAUUGGAAUUAUACAGAGAUUAGUAUGGCCCCUGCGCAGGGAUGGCACACAAACUUGUGAAGCAUUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000069615F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000069615F/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

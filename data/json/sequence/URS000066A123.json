@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066A123?format=json",
+    "rnacentral_id": "URS000066A123",
+    "md5": "65f4ed6ac9592874ddf7abfc816f82f4",
+    "sequence": "AUAUUCUGUCUUUUGGCUAAGAUCAAGUGUAAUAUCUGUUCUUAUCAGAUUAACAGGAUUCUGAUAAAAAGAAUAACUGGUGAAAUAAAGGGAAAUGAUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066A123/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066A123/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

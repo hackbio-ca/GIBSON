@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00001F6EE4?format=json",
+    "rnacentral_id": "URS00001F6EE4",
+    "md5": "ca9fe92a9d3b5b4f18afe53bdd35f770",
+    "sequence": "CCGUUCUCAACGGGGUGCCACGCAGCCGCGUGCGCUGAGAAAAUACCCGUCGAACCUGAUCCGGAUAACGCCGGCGAAGGGAUUUGAGGCUCCUUCUCAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00001F6EE4/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00001F6EE4/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 6 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 6,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

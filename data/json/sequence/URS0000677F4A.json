@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000677F4A?format=json",
+    "rnacentral_id": "URS0000677F4A",
+    "md5": "6980574d6831d1bde35c9bfc5ff13f00",
+    "sequence": "UGGCUGGCUUUAGCUCAGCAGUUACUUCCACAGUAGUUUCUAUGGUGGAAAACAACCACUCUGCGUGGUUCGAGACCCAAGGGCGCUCUCCAGCCCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000677F4A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000677F4A/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 2 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

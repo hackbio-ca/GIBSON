@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BF4544?format=json",
+    "rnacentral_id": "URS0000BF4544",
+    "md5": "8f16fdf650de1e86bd39df16e1eb688b",
+    "sequence": "UCCCUCACUAUGAUGAAGCAUAUUUGGAUGUUAAAACACAAUACUACCGAUGGCGCAAAAACCAUGUGGAUAUUUCCAGUUGCCUUCCUUCUGACCCUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BF4544/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BF4544/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

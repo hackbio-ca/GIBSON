@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000272DE3F?format=json",
+    "rnacentral_id": "URS000272DE3F",
+    "md5": "71bc9b08652b4fc2110bad89a106b626",
+    "sequence": "CGGCACGCUGUAAAGCGAACCUUUAAAUGAGUGUCUAUGAACGUAGAGAUUUAAGUGGCAAUAUGUUUGGACGCGGGUUCGACUCCCGCCGUCUCCAUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000272DE3F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000272DE3F/publications?format=json",
+    "is_active": true,
+    "description": "tmRNA from 1 species",
+    "rna_type": "tmRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000018F544?format=json",
+    "rnacentral_id": "URS000018F544",
+    "md5": "bc22ea36c6859fa8efbce65137082f25",
+    "sequence": "GGCAAGAUGGCCGAGUGGUUAAGGCGCAUGGUUCAGGCCAACCUGAAGCAAAAGUUUCCAUGUCUCGAAAGGGGCGAGGGUUCGAAUCCCUCUCUUGUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000018F544/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000018F544/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 7 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 7,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

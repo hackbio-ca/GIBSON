@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000226E51?format=json",
+    "rnacentral_id": "URS0000226E51",
+    "md5": "9c4f7d0add30a8c421663097f2d2cf33",
+    "sequence": "AAGGGUUAAGAACCUUUGUACAGGCUUCUCUCAAGUGGGCCAAUUUGGUACCUAUAUCUAGGUAGCAUCUGGAGACUGGGAGUGUUUAUUCAUGACAGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000226E51/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000226E51/publications?format=json",
+    "is_active": true,
+    "description": "precursor_RNA from 1 species",
+    "rna_type": "precursor_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "GeneCards"
+    ]
+}

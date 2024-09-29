@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C7494F?format=json",
+    "rnacentral_id": "URS0000C7494F",
+    "md5": "d5ecbb2ebd5b9244ab0d55b83990fb1d",
+    "sequence": "UUAAAUGACUCGGGGUGCCCUUCUUUGUGAAGGCUGAGAAAUACCCGUACCACCUGAUCUGGAUAAUGCCAGCGUAGUCUGGCUGUUAUCCAUUGAAAAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C7494F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C7494F/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

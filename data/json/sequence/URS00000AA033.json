@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000AA033?format=json",
+    "rnacentral_id": "URS00000AA033",
+    "md5": "af75e1507f75fac33109b287f1cc5bff",
+    "sequence": "ACUAGUACUUGUACUACUACGAGUAGUACUGGUACUACUACGAGUAGUACGAGUACUACUAUUGGUAGUAGUAGUGUAUGUACUAGUCGUAGUACUAGUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000AA033/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000AA033/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants"
+    ]
+}

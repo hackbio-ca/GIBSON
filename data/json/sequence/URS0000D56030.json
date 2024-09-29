@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000D56030?format=json",
+    "rnacentral_id": "URS0000D56030",
+    "md5": "e795cd1b2e8f5540eedf10ae4d875d0a",
+    "sequence": "CCAAUUUCUGUCCACUACAUGGUGAAUGUGAUCUAGACUCUGUUUUUAAAUAAAGGUUGGAGGCUGGCACAUUUGUUUUGUGGUGUACAGAUUAAAAAGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000D56030/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000D56030/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl",
+        "miRBase"
+    ]
+}

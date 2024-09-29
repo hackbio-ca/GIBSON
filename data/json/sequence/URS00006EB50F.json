@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006EB50F?format=json",
+    "rnacentral_id": "URS00006EB50F",
+    "md5": "cb86e404fa242a728b5f28d6ba07a05c",
+    "sequence": "CCGGUCUGUGUGAUGAUACACAAUCCAAAUGCAUAGUUCAUCUGAGUAAUCUGAUGAAAAACCUUACCUUCAAUUCUUUCGCUCCCAUCUGACAUACCAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006EB50F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006EB50F/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

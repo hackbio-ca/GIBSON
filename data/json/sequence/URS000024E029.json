@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000024E029?format=json",
+    "rnacentral_id": "URS000024E029",
+    "md5": "7ac4dbf4cd47de0dd4ad98c8c0fce711",
+    "sequence": "GAUUUCUCUCGGCCCAGCCUGAAAUUUGCUAAACCUGAUACGUGUUCGAAACCAAGGUGAGCAAAUAUUCAGGUGUGUCGACGAGCGGUCACAUUCGUCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000024E029/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000024E029/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "miRBase"
+    ]
+}

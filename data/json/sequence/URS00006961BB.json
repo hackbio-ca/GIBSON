@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006961BB?format=json",
+    "rnacentral_id": "URS00006961BB",
+    "md5": "67da180a01527dde4d78def1ed31b0c5",
+    "sequence": "AUAUGCCUGGCUCCCUGUAUGCCGCUCGCAUGGCUGCCAACCCAAUGAACUCGAUCUCGUUGUUGGCCGCUGCGUACGGCGUGCGAGGUGCCAAGCAUGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006961BB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006961BB/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 9 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 7,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}
