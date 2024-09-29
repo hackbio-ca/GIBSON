@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000264BADA?format=json",
+    "rnacentral_id": "URS000264BADA",
+    "md5": "5736800a04e59c5a4f43e75d255146bd",
+    "sequence": "GUAGUAGUGUUUUGAUGUAAUCUUAGUAAGGUCCNNNNNNNNNNUAGGACAUCGCCCUUUCACGGCGGUAACGGGGGUUCGAAUCCCCCUGGGGACGCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000264BADA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000264BADA/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

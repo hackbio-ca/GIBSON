@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BE9590?format=json",
+    "rnacentral_id": "URS0000BE9590",
+    "md5": "3d75caf32efac82f55363a7d5664e8d4",
+    "sequence": "GACUUAACCCAAAUCGUACUGUUGAUCUCCAAAGUUAAGCAGCAUUGGGUCUGGUUAGUACUUGGGUGGGUGAUCGUCUGGGAAUCCCAGAUGCAAUUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BE9590/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BE9590/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa",
+        "Rfam"
+    ]
+}

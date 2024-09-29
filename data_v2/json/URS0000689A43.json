@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000689A43?format=json",
+    "rnacentral_id": "URS0000689A43",
+    "md5": "16dd5bb6e1f77c07b09a2c48aeb6506b",
+    "sequence": "AAAUUUUAGGAGUUCCUAAGUGUGAUAAUUUGGUUUUCACAUUCAUGUGUGAGCUGUGCCUGCCUUUUGUUACAAGGGCAUAUUAAACUUUGCUGUGAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000689A43/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000689A43/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 5 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

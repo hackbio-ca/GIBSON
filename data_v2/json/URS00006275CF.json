@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006275CF?format=json",
+    "rnacentral_id": "URS00006275CF",
+    "md5": "f583355de0c53c4ccc06b7a6239531b2",
+    "sequence": "GCANCGNGUGUGAAUCGCAGGGAUCAGUGAAUCAUCGAAUCUUUGAACGCAUGUUGCGCUCUCGUGGUCAUCCCCCGAGAGCACGUUUGCUUGAGUGCCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006275CF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006275CF/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

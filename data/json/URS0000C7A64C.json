@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C7A64C?format=json",
+    "rnacentral_id": "URS0000C7A64C",
+    "md5": "e0eaa8f1d97b8f098e421d1f3dc3a9a9",
+    "sequence": "GGCUGGUCUUAAUGCAGUGGUGUUUACAAUUAAUUGAUCACAGCCAGUUAUAGAUUUCUUUGUUCCUUCUCCACUCCCACUGCUUCACUUGACUAGAAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C7A64C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C7A64C/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 2 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

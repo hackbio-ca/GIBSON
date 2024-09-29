@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BCF95A?format=json",
+    "rnacentral_id": "URS0000BCF95A",
+    "md5": "3c5bf3557f602ca18f0efff3056538c0",
+    "sequence": "CUCCUCCCACCCCGCCUGCUCGGCGGCGGAGGCGGCGGCAGCGGCAGCGGUUGUUCCUGCCUCUCCGCCACCUCCACCGCCGCCUGUCCUUCGGCCGGCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BCF95A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BCF95A/publications?format=json",
+    "is_active": true,
+    "description": "miRNA from 1 species",
+    "rna_type": "miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000520CFD?format=json",
+    "rnacentral_id": "URS0000520CFD",
+    "md5": "e8266d73d4064fb2625e032e391d8ef0",
+    "sequence": "UUAGCCAAACCAUUUACCCAAAUAAAGUAUAGGCGAUAGAAAUUGAAACCUGGCGCAAUAGAUAUAGUACCGCAANGGAAAGAUGAAAAAUUAUAACCAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000520CFD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000520CFD/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "GeneCards",
+        "MalaCards"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000094E72F?format=json",
+    "rnacentral_id": "URS000094E72F",
+    "md5": "c522c3fca77f87621beff61d9c9e3900",
+    "sequence": "GGUAGGUAGGCUCACCAAGGCGACGAUCCCUAGCUGGUCUGAGAGGAUGACCAGCCACACUGGAACUGAGACACGGUCCAGACUCCUACGGGAGGCAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000094E72F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000094E72F/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

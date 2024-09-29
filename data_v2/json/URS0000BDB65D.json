@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BDB65D?format=json",
+    "rnacentral_id": "URS0000BDB65D",
+    "md5": "c1805df5c3231d27337f5a5f66c39693",
+    "sequence": "GGUUUGGAGGUGGGCCUGACAUCCCUGAGUGUAUGUGGUGAACCUGAACUUGCCCUGGGUUUCCUCACAUCCAUUCAGGAGUGUCAGCUGCCUCUUCACU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BDB65D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BDB65D/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

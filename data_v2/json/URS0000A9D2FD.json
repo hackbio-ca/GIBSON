@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A9D2FD?format=json",
+    "rnacentral_id": "URS0000A9D2FD",
+    "md5": "cd62ca433460dd118a796ef7c7d22bff",
+    "sequence": "GUGGUCCUCGGCCGCCCACAUGCCAACCAGAAGUACACAGGGAUUGGCAUGGCCCAUGUGCAAGGAUAACUCAACCAUUUGUGAAGAUUUCCAUAUUAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A9D2FD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A9D2FD/publications?format=json",
+    "is_active": false,
+    "description": "snRNA from 14 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

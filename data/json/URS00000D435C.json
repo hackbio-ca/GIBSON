@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000D435C?format=json",
+    "rnacentral_id": "URS00000D435C",
+    "md5": "2dd5ccfca8c64081e3970d13c1dc418d",
+    "sequence": "AUACAAUAGUUAUAAAACACACCGAAUAUGUUUUUUCUUUUGGAUAAGUCGCAUUCACAAACUUUGGUCGGGGAGUGGGCGACUUCUUUUUUAUUUUGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000D435C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000D435C/publications?format=json",
+    "is_active": true,
+    "description": "antisense_RNA from 3 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "MGNIFY"
+    ]
+}

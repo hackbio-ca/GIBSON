@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000062434E?format=json",
+    "rnacentral_id": "URS000062434E",
+    "md5": "d37d5700515159e2da5af85e27f3909a",
+    "sequence": "GCGCUGGUGUAGCUCAGUGGUUACUUCCUACAACAAACCCGACUGGGUUUCCUGUAUCAUCCCAUCCGGGAUCGAACCACGGGCGCUGUCCAGUGUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000062434E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000062434E/publications?format=json",
+    "is_active": false,
+    "description": "vault_RNA from 10 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

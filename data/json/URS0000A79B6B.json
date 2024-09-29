@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A79B6B?format=json",
+    "rnacentral_id": "URS0000A79B6B",
+    "md5": "2a0c027b99af2b5261dcca091059789f",
+    "sequence": "UGAGGCAGGAGAAUUGCUUGAACCCAGGAGGUGGAGGUUGCAGUGAGCCGAGAUCGUGCCACUGCACUCCAGCCUGGCAACAGAGCAAGACUCCAUCUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A79B6B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A79B6B/publications?format=json",
+    "is_active": false,
+    "description": "precursor_RNA from 0 species",
+    "rna_type": "precursor_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

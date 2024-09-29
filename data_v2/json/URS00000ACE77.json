@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000ACE77?format=json",
+    "rnacentral_id": "URS00000ACE77",
+    "md5": "cfb6aeb6b6aa1c08b8141e76fe86e5b1",
+    "sequence": "AACUAACGCUAUUAUUGAUACAGUUUCUGUACUUUAUUGGUAUGAGAAGCUUCCAGAAUAAUAAUUCUGAUUAUUAUUCGGGAUAAUUUUGGAAUAAAAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000ACE77/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000ACE77/publications?format=json",
+    "is_active": true,
+    "description": "misc_RNA from 1 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

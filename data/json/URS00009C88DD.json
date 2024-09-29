@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00009C88DD?format=json",
+    "rnacentral_id": "URS00009C88DD",
+    "md5": "c8cc64a32e595bc00a9e81ce5fe42c52",
+    "sequence": "ACGCCGCAUGUCGAUCACUUCUGUCUACGCCUCGCGAUUUUAUUGGUACCGCUGCUCACAGCGGAUGCGGGUCUAUGCGUAACUGAAGUCGACGCGACGA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00009C88DD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00009C88DD/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 2 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

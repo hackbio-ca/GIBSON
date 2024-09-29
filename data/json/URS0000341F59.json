@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000341F59?format=json",
+    "rnacentral_id": "URS0000341F59",
+    "md5": "de39e64f055e33a584b31bb302b84f8d",
+    "sequence": "GUUGUAACUAAUGUUGCAACAAACGAGAACCGAGUAUAGUUCAUGGGUAUAGCAUGAAUUGUUUAACUACCUAGGAUUGCCGUCCGAUGGUAGUCGGUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000341F59/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000341F59/publications?format=json",
+    "is_active": true,
+    "description": "antisense_RNA from 24 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 24,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

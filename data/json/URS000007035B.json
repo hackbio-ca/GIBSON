@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000007035B?format=json",
+    "rnacentral_id": "URS000007035B",
+    "md5": "057e01120c290da7158f7dc25ec99a91",
+    "sequence": "GUCCUUGCUUUGGCUGAACCUAACACUAAAAUUGGAACAAUACCAAGAAGAUUGCACAACAUGGCCCUGUGCAAGGAUGAUAUGUAAGGUCAUGAAGCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000007035B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000007035B/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "GeneCards"
+    ]
+}

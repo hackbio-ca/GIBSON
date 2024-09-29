@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AB90BF?format=json",
+    "rnacentral_id": "URS0000AB90BF",
+    "md5": "f4268e6fab5a4d2dc64ad7c70cfb6993",
+    "sequence": "UGUCCAGUAACUCCUAUCCCUACCUCCCCGUGGUGCCGCCUGGAAUACGAGUAACCAUAGGGACCCUGGUGGGGCCUUGGUCGUAUGCUGACAGGGAAGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AB90BF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AB90BF/publications?format=json",
+    "is_active": true,
+    "description": "ribozyme from 1 species",
+    "rna_type": "ribozyme",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

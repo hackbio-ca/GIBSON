@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000DA902E?format=json",
+    "rnacentral_id": "URS0000DA902E",
+    "md5": "c860379cdeabed0c70810d223bbfcb30",
+    "sequence": "GCAAAUCGAGUGACAACAAGAGAAAGCACGCUUGUAAACAGCCAUGCCCUUGCAUGAAUGCCGACAAGCGUGCUCUCUCUCGUUGUCAAGCAAUUCCGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000DA902E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000DA902E/publications?format=json",
+    "is_active": false,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000640FBD?format=json",
+    "rnacentral_id": "URS0000640FBD",
+    "md5": "d22c0a8cb353f7587a6f1d056e2a9914",
+    "sequence": "UUGCUUUAGCAGCACAAAUUGUAAAAUUGGAACAAUACAGAGAUAAGCAUGGCCCCUUUGCAAGGGUGACACCCAAAUUUGUGAAGUAUUCCAUUUAUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000640FBD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000640FBD/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

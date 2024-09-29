@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AB510E?format=json",
+    "rnacentral_id": "URS0000AB510E",
+    "md5": "6c54c02e0d57aac490fc1a078d9d1014",
+    "sequence": "UGAGACGAUAACACAAACACUCGUAUAUUUUCAGGAAUAUGGCUUGAAAGUUUCUACCUGCUACCGUUAUUAGCAGACUAUGAGGUGUAAUAUUGUAAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AB510E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AB510E/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

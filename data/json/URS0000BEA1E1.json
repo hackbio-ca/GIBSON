@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BEA1E1?format=json",
+    "rnacentral_id": "URS0000BEA1E1",
+    "md5": "432c8ff0717e445ba46cfdfdfb2b59b5",
+    "sequence": "UUGAUGCAGAUGAGGAGACACAAGAUUUAAUGGGUAAUUUGCGUCUGAGGCAUCUCUAUGAUGUCACACCCUUUUUCACCUUGGAGAUCUGAUGCACCUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BEA1E1/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BEA1E1/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

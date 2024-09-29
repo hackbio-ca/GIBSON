@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000313EB8?format=json",
+    "rnacentral_id": "URS0000313EB8",
+    "md5": "589627ed97ca3c9f05b52d2affed56d7",
+    "sequence": "UGAUCCAUGGCUGUUGAGAGGAAUGACGUCCGGUCUGAAGAUCGCCGUCCCCAGGCGGUGGCUUCGGACCAGGCUUCAUUCCCCAUGACUCAUGGAACCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000313EB8/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000313EB8/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 3 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "miRBase"
+    ]
+}

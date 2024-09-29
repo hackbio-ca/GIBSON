@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000B6851?format=json",
+    "rnacentral_id": "URS00000B6851",
+    "md5": "3280c5daf9b404cb09860993f9f751aa",
+    "sequence": "UCCCUGCUGGCGCAAUGGUAGCGCGCAAGACUUCUAAGUGGAAAUCACAUCUGCGUUUGAAUUAAUCUUGGGGCUGUAGGUUCGAGACCUACGUAGGGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000B6851/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000B6851/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

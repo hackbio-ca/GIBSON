@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000265CFB?format=json",
+    "rnacentral_id": "URS0000265CFB",
+    "md5": "ebfcfd39f43f23d9ca27510894bbe5be",
+    "sequence": "GCUUCUCGUGCGAUGUUUCGCAGUAUAUCCCUGUGAGUUUGCUACUUUUCAAUGGUCAAAUCACAGGAGUAUACUGUGAGAUGUUGCCGGUUACUUAGGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000265CFB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000265CFB/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "miRBase"
+    ]
+}

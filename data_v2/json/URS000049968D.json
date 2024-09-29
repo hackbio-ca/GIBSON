@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000049968D?format=json",
+    "rnacentral_id": "URS000049968D",
+    "md5": "ac307e32d7da37b0068573dc4fdf5db2",
+    "sequence": "CGAUCGGUGUGUAUUUGGCAAGUAGAAUAGCAGGCUUAUCACAUGUUCCAUUCAAUCCGCUGUGAGAUUCUUCUAUUCUACUUUCGACAAACACCCGUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000049968D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000049968D/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 2 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "miRBase"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000064D495?format=json",
+    "rnacentral_id": "URS000064D495",
+    "md5": "ef60c9129fa838ee10d875c228da9a73",
+    "sequence": "UUCUCGGGCCUGUGCAAUGGGGGCCUGUGAAUCGUGUCAGGACUGAGAGGUAGCAGCACUAAGCGGUAACCUUCAUGUGCCACGGGGAACCCGGGGGCUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000064D495/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000064D495/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 10 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 11,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

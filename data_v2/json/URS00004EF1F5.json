@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00004EF1F5?format=json",
+    "rnacentral_id": "URS00004EF1F5",
+    "md5": "1cca7135c19671909dd8472e1b71330e",
+    "sequence": "CUUCGUCAGCUGGCAACCAGCCAAAACGCAUUUAUUCAUCAUUUGUGUUUCUCUCUUCACCCUCCACCAUUCCGCCUACGUUUCUUCCCAUUUUUUCUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00004EF1F5/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00004EF1F5/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RefSeq",
+        "WormBase"
+    ]
+}

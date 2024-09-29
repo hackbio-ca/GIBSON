@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000095F72D?format=json",
+    "rnacentral_id": "URS000095F72D",
+    "md5": "022cbfe61fbb9c54b4adf738eca56ae1",
+    "sequence": "GGCAUGGUCGGAAAUCAUGCUGAUAGUGCAAAAGCAUAAGAGUGCUUAACUGCGAGACUGACAGGUCGAGCAGGUACGAAAAGUUAGGUUUUUAGUGAUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000095F72D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000095F72D/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

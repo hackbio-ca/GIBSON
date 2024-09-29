@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000D7684F?format=json",
+    "rnacentral_id": "URS0000D7684F",
+    "md5": "cee69d1ec7d40bb348b325026468f8ed",
+    "sequence": "ACGACCUUACUUGAACCUGACCUGUUCUAUAGGCUUGUAUCUUUAUAUUCUUGAUUCUUAAAAACGUUUUUGAUUAGUGUUGGGGAAGUAUCAUUAACUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000D7684F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000D7684F/publications?format=json",
+    "is_active": false,
+    "description": "snoRNA from 11 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants"
+    ]
+}

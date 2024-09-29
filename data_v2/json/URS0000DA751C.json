@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000DA751C?format=json",
+    "rnacentral_id": "URS0000DA751C",
+    "md5": "c183f1fed40b73e4fffb784cd2402acd",
+    "sequence": "GUGUUAACCAAUACCCGUUGUUGCCUUGAAAAACACUAAGCAUAGCAGCAGCGACUUUUUCCCUGGUGUUGGCGCAGUAUUAGCGCACCCCGGCCUCGGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000DA751C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000DA751C/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 3 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

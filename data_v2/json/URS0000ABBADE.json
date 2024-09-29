@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ABBADE?format=json",
+    "rnacentral_id": "URS0000ABBADE",
+    "md5": "9373c2e59cfaaa8344407f58b27051c8",
+    "sequence": "GGGGGCACCUCGGGGUGCCUGCAAGGGCUGAGACGCGCGCUGCGAACCCGUUGAACCUGACCCGGUUAGGACCGGCGGAGGGAAGGUGCAUGGCUCCUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ABBADE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ABBADE/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

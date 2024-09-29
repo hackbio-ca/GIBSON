@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000319C20?format=json",
+    "rnacentral_id": "URS0000319C20",
+    "md5": "5cb7c6751848b6900625911f9e426d7d",
+    "sequence": "CCGUUCUCAACGGGGUGCCACGCAAACGCGUGCGCUGAGAAAAUACCCGUCGAACCUGAUCCGGAUAACGCCGGCGAAGGGAUUUGAGGCUCCUUCUCAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000319C20/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000319C20/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 3 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

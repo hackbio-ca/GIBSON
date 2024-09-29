@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C31EA0?format=json",
+    "rnacentral_id": "URS0000C31EA0",
+    "md5": "57833eed5981b9e2a74733a4a7b213a1",
+    "sequence": "GCGCCGAUGGUUUAGUGGUAAAAUUCUCCGUUGCCACCCAGCAACGUCGGGGAGCCGGGGGACGUCGGGGAGCCGGGGGUUCGAUUCCCCCCUCGGCGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C31EA0/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C31EA0/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000D531D0?format=json",
+    "rnacentral_id": "URS0000D531D0",
+    "md5": "890c16629a09de15bc1d62ce5d1597a7",
+    "sequence": "AUCAGUAGAUUGUGAUACCCUGCCAGCGUGGUUCGAAGGCGUGUGGCUCUUGAAGAAUUUCUGCGGCACCGCCAAGUAGUAUCACAGUCCUGCUUAGGUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000D531D0/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000D531D0/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "miRBase"
+    ]
+}

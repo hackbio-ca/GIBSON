@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C37C43?format=json",
+    "rnacentral_id": "URS0000C37C43",
+    "md5": "62b73a1b96868415798d70dcee244252",
+    "sequence": "AGUGCAAGUGACGAUGAAAAGACAGGGACAUCAGAAAUUCUCCAAUUAGGAGAAUUUAGAAUGAUGACUAACGUCUAAAUGGGAAUCUCUCUGAUGCAUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C37C43/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C37C43/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 2 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

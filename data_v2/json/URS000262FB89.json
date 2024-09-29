@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000262FB89?format=json",
+    "rnacentral_id": "URS000262FB89",
+    "md5": "db921f9649a4ecadee0bb2c4535d8fab",
+    "sequence": "AACCGCCGUAUGCCGAACGGCACGUACGGUGGUGUGAGAGGUCGGUGAACAUGAAAAUAGGAGAUAAACACCUAUGAUUAAUGUUUACCUCCUACUCGAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000262FB89/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000262FB89/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RiboCentre"
+    ]
+}

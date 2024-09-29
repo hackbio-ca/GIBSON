@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C32A30?format=json",
+    "rnacentral_id": "URS0000C32A30",
+    "md5": "58df01c52827e761fb680a5b113a3132",
+    "sequence": "GCCUGUAUGAUGAAGUAUUGCGGAUGUAAAAAUUAUCGUCUUGUCGGAAAAGCGCAAAAACGAUGUCGAAAUUUCCGUUGCCUUCCUUCUGACUCACGGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C32A30/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C32A30/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 3 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

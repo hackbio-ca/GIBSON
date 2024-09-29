@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00005922FF?format=json",
+    "rnacentral_id": "URS00005922FF",
+    "md5": "0f4e906f6697ded40c081d0c0295511d",
+    "sequence": "CACACCGCCCGUCACACCAUGGGAGCUGACUCAACCAGAAGACGGUCAGGCUAACUCGCAAGAGGGGCCUCCGGCGAAGGAGGGGUUGGUGACUGGGGUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00005922FF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00005922FF/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

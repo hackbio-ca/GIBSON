@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006924F4?format=json",
+    "rnacentral_id": "URS00006924F4",
+    "md5": "646a181b5f55c352c6942e8fc4df75e5",
+    "sequence": "GGGCUGGUUUUAGCCCAGUGGUUCCUUCGAGUUUGGUUUCCCAACUGCCCGAGCCGAUUGGUUCGGUGGUUCGAGACCUGGGGUGCCCUCCAGUCCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006924F4/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006924F4/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 3 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

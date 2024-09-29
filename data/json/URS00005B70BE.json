@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00005B70BE?format=json",
+    "rnacentral_id": "URS00005B70BE",
+    "md5": "6169c916ff6379052084df8b4d0a9ed2",
+    "sequence": "CUGAUUUAGCGAACCGAGCGUUAGCGAGGUUUUGCGAUCAACUUGUAUUUAAAACCCACUCUUCAAUGUAUAAAAUUUGUAUUAAUGAUAAAUCAUAAGA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00005B70BE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00005B70BE/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C765CF?format=json",
+    "rnacentral_id": "URS0000C765CF",
+    "md5": "d94b830c0535b402a1928c8e14debc71",
+    "sequence": "AAUGUUUUGCAGGGGGACACGAUCGGUGUUGAGAAGGUAAAACCUGACCCUUAGAACCUGAUCCGUUAAUACGGGCGUAGGGAGCAACGUACAAUUUACA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C765CF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C765CF/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

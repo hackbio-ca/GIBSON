@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ADA297?format=json",
+    "rnacentral_id": "URS0000ADA297",
+    "md5": "271c2d0201613c68255561477de1a475",
+    "sequence": "CGAGAGGCUGGCGCGGGCAGGCGCCUCGCCAACCCGGUCAGGUCCGGAAGGAAGCAGCCGUAACGAGCCCCGCCUGGGUCGCUGUCCAGUCUCUCACCUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ADA297/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ADA297/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

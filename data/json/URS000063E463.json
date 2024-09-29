@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000063E463?format=json",
+    "rnacentral_id": "URS000063E463",
+    "md5": "a5241641e3baba248d9bc7428f52725f",
+    "sequence": "GUCUGGGUCCCGCGCAAUGGGAUUCCGUGAACCCUGUCAGGUCCGGAAGGAAGCAGCAGUAAGCGGAUGCUCCCAUGUGCCGCGGGGGUGCCUGGGCUGA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000063E463/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000063E463/publications?format=json",
+    "is_active": false,
+    "description": "SRP_RNA from 0 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        ""
+    ]
+}

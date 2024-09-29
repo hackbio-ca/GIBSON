@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00002588AD?format=json",
+    "rnacentral_id": "URS00002588AD",
+    "md5": "ce26b5a0c1cf13e6e1959d8b6838864b",
+    "sequence": "GUCACAGUGGCCGAGUGGUUAAGGCGAUGCCCUGCUAUUCGCUAGAAAGCAGUUUAGGCAUUGGGUUCUACCUGCGCAGGUUCGAAUCCUGUCUGUGACG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00002588AD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00002588AD/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 4 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006414FA?format=json",
+    "rnacentral_id": "URS00006414FA",
+    "md5": "d2740c441e3e4656c55439611c66c92f",
+    "sequence": "UUUGGCAAUGCGUAUGUAUACUACAAUUGGAACAACACAGAGGGGAACUCAUCCCCUGUGCAAGGAUGGCAUGCCAAUCUGUGAGGUAUCCUCUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006414FA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006414FA/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

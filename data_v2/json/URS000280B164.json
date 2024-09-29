@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000280B164?format=json",
+    "rnacentral_id": "URS000280B164",
+    "md5": "5ed8eedf9aedafdaa1fbccce306f7344",
+    "sequence": "GUGUUGUAUGAAAGGAGAGACGGUUAGCACUCCCCUAGACAAGGAUGGAACACAUAUAAGGUUGAGGCACCGCUGAGUUAUCAGCGCUUGACCCAUUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000280B164/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000280B164/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

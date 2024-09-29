@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000051A688?format=json",
+    "rnacentral_id": "URS000051A688",
+    "md5": "208a74d94a56015ab17c4184faee0410",
+    "sequence": "AACUAACGCUAUAUAAGUAUCAGUUUCUGUACUAUAUUGGUAUAAGAAGCUUCCGGUCCACACCGGCAAGAUUUUGGGUUCGGUUCCGCGAGGGGCCACC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000051A688/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000051A688/publications?format=json",
+    "is_active": true,
+    "description": "misc_RNA from 3 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000152E6E?format=json",
+    "rnacentral_id": "URS0000152E6E",
+    "md5": "332d64ae6ad830e134c361fbb2a5a3ef",
+    "sequence": "CUUAAUGUGUUUCCACUCAGAAAUUUUGAAUUAUGAUAUUAAAUGGAUUAUGAUAUUAAAAAGAUGAAUUAUGAUAUUAAAUGGACUACUAUUAGCAUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000152E6E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000152E6E/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RefSeq",
+        "WormBase"
+    ]
+}

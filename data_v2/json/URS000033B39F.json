@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000033B39F?format=json",
+    "rnacentral_id": "URS000033B39F",
+    "md5": "67d1bce1c4e6445d1139ae16467be782",
+    "sequence": "UGAUGCAAAUGGAGCAGUCGUGUUUUAAGGUACAGACUUUGAGUCUAUUCUAGGCAUCAAUUUUCGUAUCUUUUAAUUCGUCUGGCGCCAACAGCAACAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000033B39F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000033B39F/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "miRBase"
+    ]
+}

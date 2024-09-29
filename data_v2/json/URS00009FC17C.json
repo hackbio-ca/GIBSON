@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00009FC17C?format=json",
+    "rnacentral_id": "URS00009FC17C",
+    "md5": "43c8b5e33820aa793fceb241699ee495",
+    "sequence": "CCGUUCUCAACGGGGUGCCACGCGUACGCGUGCGCUGAGAAAAUACCCGUCGAACCUGAUCCGGAUAACGCCGGCGAAGGGAUUUGAGGCUCCUUCUCAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00009FC17C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00009FC17C/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 3 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

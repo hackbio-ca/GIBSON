@@ -1,0 +1,21 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00004A510B?format=json",
+    "rnacentral_id": "URS00004A510B",
+    "md5": "fa1a007ad2263684399d9c0eb596a549",
+    "sequence": "UUUUAUGAUGAAUUUAUGUUUUCAAUCUUAUCUACAUUAUCUGAAUUAAUAGCUAACAAUAGUUAUAAUGGAAGAUAUACGACUAUCAACAAUUCUGAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00004A510B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00004A510B/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 58 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 56,
+    "distinct_databases": [
+        "ENA",
+        "IntAct",
+        "RefSeq",
+        "Rfam",
+        "SGD",
+        "snOPY"
+    ]
+}

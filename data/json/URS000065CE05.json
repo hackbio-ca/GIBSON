@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000065CE05?format=json",
+    "rnacentral_id": "URS000065CE05",
+    "md5": "b345d950272266dcd7c1d5af5d4f347b",
+    "sequence": "GGCUGGUCUGAGUGCAGUGGUGUUUACAACUAAUAUCACAACCAGUCACUGAUUUCUUUGUUCCUUCUCCGCUCCCACUGCUUCACUUGACUAGCCUAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000065CE05/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000065CE05/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 1 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

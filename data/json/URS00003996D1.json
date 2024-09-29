@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00003996D1?format=json",
+    "rnacentral_id": "URS00003996D1",
+    "md5": "d67a61784e5b0499cbc9333dc7995736",
+    "sequence": "GAAAACUCGGGAUCCCGUCCGCUCUCCCAUAGAUAAGCUACCAAUCGCCUGACUAGUAGUUGGGUCGGUGACGACCAGCGAAUCCCAGGUGUUGUAUGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00003996D1/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00003996D1/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 2 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Fungi"
+    ]
+}

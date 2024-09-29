@@ -1,0 +1,20 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000393A65?format=json",
+    "rnacentral_id": "URS0000393A65",
+    "md5": "ba4ef18d16dbb846d47e95ae1f54edcc",
+    "sequence": "GGUUGGAUUACUGGGCGAAUACUCCUAUGGCAGAUCGCAUUGGCUAGAUAUGCAAGUAAAAUGCUUCUCUGCCAAAGGAGAUUUGCCCCGCAAUUCAUCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000393A65/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000393A65/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 4 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants",
+        "miRBase",
+        "RefSeq",
+        "Rfam"
+    ]
+}

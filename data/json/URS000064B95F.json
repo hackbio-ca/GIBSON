@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000064B95F?format=json",
+    "rnacentral_id": "URS000064B95F",
+    "md5": "4068d2822919f53802d02761cfdc1eee",
+    "sequence": "CAAUUUUGGUGACUCGUCUCGCAUAAGACAGUUACCUGGUUAAGCAGUCUGCAAGCUGACUUAACCUUCGAUCAAACGCCCUGCAAGGCGGUUUUUUCGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000064B95F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000064B95F/publications?format=json",
+    "is_active": false,
+    "description": "antisense_RNA from 0 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

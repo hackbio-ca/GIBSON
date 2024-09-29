@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000054EF00?format=json",
+    "rnacentral_id": "URS000054EF00",
+    "md5": "fd0c950466964abaa63ac6ca46e9ec8b",
+    "sequence": "CACCCCUCAAGCACUGCUUGGUGUUGGGCACCGCCCCCGUGGCGGGCCUGGAACUCAGUGGCGGUCCGGCGAGACUUCAAGCGUAGCAAGAUUCUAUAUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000054EF00/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000054EF00/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

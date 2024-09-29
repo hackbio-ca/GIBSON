@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C828AD?format=json",
+    "rnacentral_id": "URS0000C828AD",
+    "md5": "f0607d74b9ae4d12a9597c6fc3561539",
+    "sequence": "UGGAAAGAGCGAUAUUGGUGAGGUUCAAUCCGAUGAUUGGUUUUACAGCAGUGGUAAAACCAGUAUCUGAUUGAGCCGCGCCAAUAUCUCUUCCUCCUAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C828AD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C828AD/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 2 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BD791E?format=json",
+    "rnacentral_id": "URS0000BD791E",
+    "md5": "967f54e90c3332e0163b8b2c710a3b42",
+    "sequence": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCGCCAAGCCUUUGGCAUCAUUAUCCUCAUCACUAAAUCCUGCAGAGUACUGGGCGGAAAACGGUGCACAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BD791E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BD791E/publications?format=json",
+    "is_active": true,
+    "description": "lncRNA from 2 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000023FAA?format=json",
+    "rnacentral_id": "URS0000023FAA",
+    "md5": "05a5e60138127faea7ffa1448f3655b3",
+    "sequence": "UCGCUGCCCGCGACGUCGCGAGAAGUCCACUGAACCUUAUCAUUUAGAGGAAGGAGAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000023FAA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000023FAA/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 2 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

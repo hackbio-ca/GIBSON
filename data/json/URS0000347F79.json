@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000347F79?format=json",
+    "rnacentral_id": "URS0000347F79",
+    "md5": "df31f1528e8a369fb17a859ca3bbd493",
+    "sequence": "CACCGCCCGUCACACCACGAAGGCCCAUUGUACCAGAAGUCGGUGAGCUAACUCCGCAAGGGGGAGGCAACUGCCCAAGGUAUGAUUGGUGAUUGGGGUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000347F79/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000347F79/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

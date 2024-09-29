@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000063421F?format=json",
+    "rnacentral_id": "URS000063421F",
+    "md5": "c8f81d702a73a63143c5f3784d18b3cd",
+    "sequence": "AUCCUUUUAUAGUUCAUAAGCAUAUUGGGUGUUCGUGCUUCUGUGUGAGAUGUGCCUCCCACGAAUCUUGUUAUUCCUUUGGCACAUUACCCAUCUGAUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000063421F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000063421F/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 3 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

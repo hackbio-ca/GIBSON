@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000068EBF6?format=json",
+    "rnacentral_id": "URS000068EBF6",
+    "md5": "610004edc241b63bbf0d6d0c9d53bbbf",
+    "sequence": "UCCGAUAUGGUCUAGUGGCUAGGAUUUGCCGCUCUCACCUCGCAGAGUCAGUUCACUGUACAGUGCCGGCAAGGCCCGGGUUCGAUUCCCGGUGUCGGAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000068EBF6/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000068EBF6/publications?format=json",
+    "is_active": false,
+    "description": "ncRNA from 16 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi"
+    ]
+}

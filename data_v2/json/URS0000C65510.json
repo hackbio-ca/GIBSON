@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C65510?format=json",
+    "rnacentral_id": "URS0000C65510",
+    "md5": "b92ec88ff9ae3d6fab97fde03f438782",
+    "sequence": "GUUCCUUCAAAGACAUCCGAUAAAAUUGAAACAAUAUAGAGAAGAUCAGCAUGAGCCCUAUGCAAGGAUGACAUGCACAAAUCGAAAAAAGAAUUUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C65510/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C65510/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

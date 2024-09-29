@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000066A494?format=json",
+    "rnacentral_id": "URS000066A494",
+    "md5": "40f8de737f5d828b1c6522a096e2edf7",
+    "sequence": "CUGUUCUCCCUUUGGCAACACGUAUUCUAAAACUGGAACAAGAUUAGCCUGGGCCCUGUGCCAGGAUGACCCAUGAAUUUGUAAAAUAUUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000066A494/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000066A494/publications?format=json",
+    "is_active": false,
+    "description": "snRNA from 0 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

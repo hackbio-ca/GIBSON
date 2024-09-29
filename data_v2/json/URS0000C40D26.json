@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C40D26?format=json",
+    "rnacentral_id": "URS0000C40D26",
+    "md5": "73d417f3dff57a56b7791692fc97ab1e",
+    "sequence": "GGGCUGGCUAUAGCCCAGUGGUUACUUCAAUGUGCUUAUCACUUCUCUCAUGCCCCAUGAGGGGUUCAAUCCCGCAGGCACCUUAGGCCCCCCCCCUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C40D26/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C40D26/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 1 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

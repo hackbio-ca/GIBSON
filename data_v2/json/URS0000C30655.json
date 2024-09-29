@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C30655?format=json",
+    "rnacentral_id": "URS0000C30655",
+    "md5": "54a08555838a635a7b05af2910265cc6",
+    "sequence": "AGUCCUCUUUGAUAUUGGCCUGGUUCACUCAGAUUACACACGUACUAUAUGCAUUCUCUUAGUUAUCUGAUUGAGCCGCGCCAAUAUCUCAGUGCUCUCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C30655/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C30655/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 3 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

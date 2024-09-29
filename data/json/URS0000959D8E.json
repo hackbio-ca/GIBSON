@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000959D8E?format=json",
+    "rnacentral_id": "URS0000959D8E",
+    "md5": "88736d5a990a7504d0074ed6bd404afc",
+    "sequence": "UUGGCUCAUAGGGCAGGGUUUGUUGGGCCUCGGUAAGCGUUGGAUUGUUCACCCACUAAUAGGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000959D8E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000959D8E/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

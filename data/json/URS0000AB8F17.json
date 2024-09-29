@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AB8F17?format=json",
+    "rnacentral_id": "URS0000AB8F17",
+    "md5": "38ed099814248b5818b22d414f48f6be",
+    "sequence": "UACCCAGCAACUCCUAUCCCUACCUCCUCGUGAUACUGGACGGGGGAAGAUCGGGUAACUAACCCCGGUGGGAACUUUGGUCGUAUGCUGACAGGGAAAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AB8F17/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AB8F17/publications?format=json",
+    "is_active": true,
+    "description": "ribozyme from 1 species",
+    "rna_type": "ribozyme",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

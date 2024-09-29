@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A8D16A?format=json",
+    "rnacentral_id": "URS0000A8D16A",
+    "md5": "a6b06e74f2ba6d5b2a4c5c7a0579d7a6",
+    "sequence": "GGUCCAAAGAUAGUUGUCUCAACUGAUCGUUCACCAUCAGUUACAGAUCAGACUCCUUGUUCUACUCUUUCCCACUCUCACUACUGCACUUGACUCUUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A8D16A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A8D16A/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 1 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "GeneCards"
+    ]
+}

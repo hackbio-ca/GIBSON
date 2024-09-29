@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C5792A?format=json",
+    "rnacentral_id": "URS0000C5792A",
+    "md5": "9f2445e2f0116dcc9789fb61dfab710a",
+    "sequence": "AUCCUUCUGUGGAUCACAGUAUGAUGCUUGGGUUGUCACACCAAUGAGAGAGAUGUGCUCCUCAAAACAUGUUACUAUGUGGACAUUUACCAGCCCGACU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C5792A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C5792A/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

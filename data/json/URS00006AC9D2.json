@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006AC9D2?format=json",
+    "rnacentral_id": "URS00006AC9D2",
+    "md5": "b6578e2961d6f1e1f474add8778292fd",
+    "sequence": "CCCCCGGUCCGACGCGGCGGCCCGCCGUGAACCGGGUCAGGUCCGGAAGGAAGCAGCCCUAAGCGGUGAGGGUCGGGUGCCGUCGGGCAGCCGGGGGUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006AC9D2/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006AC9D2/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

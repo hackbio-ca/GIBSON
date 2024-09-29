@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000285F8F?format=json",
+    "rnacentral_id": "URS0000285F8F",
+    "md5": "b703258176948f522154af95a31575fa",
+    "sequence": "UGUGUCUCUCUCUGUGUCCUGCCAGUGGUUCUACCCUAUGGUAGGUUACGUCAUGCUGUUCUACCACAGGGUAGAACCACGGACAGGAUACCGGGGCACC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000285F8F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000285F8F/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "miRBase"
+    ]
+}

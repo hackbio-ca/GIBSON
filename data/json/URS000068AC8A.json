@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000068AC8A?format=json",
+    "rnacentral_id": "URS000068AC8A",
+    "md5": "015f4bff6746bdd91fdb051b8c64aad7",
+    "sequence": "CGGCCUGUUGCGGUAUAUAGGGUCCAGUUGCAUAAAGCCCCGAUAUUUCGGGGUUUUUGUUAUUUGGCAACAACAUGACUGGGCUUUUAGCCCUUUUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000068AC8A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000068AC8A/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

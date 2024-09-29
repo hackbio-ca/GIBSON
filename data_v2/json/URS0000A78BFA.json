@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A78BFA?format=json",
+    "rnacentral_id": "URS0000A78BFA",
+    "md5": "0573abed97eebf4740ca7f1e217aa9ce",
+    "sequence": "GUCUAUGGCCAUACCACCUUGAAUGUGUCUGAUCUCAUUAGCUAAGCAGGGUCGGGUCUGGUGUGUACUUUGAUGGGAGAAAAUAAAAUCAUGAUUGACU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A78BFA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A78BFA/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 3 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

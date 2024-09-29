@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C2E485?format=json",
+    "rnacentral_id": "URS0000C2E485",
+    "md5": "50b4fa77a73cc3de6f45df1b3139b994",
+    "sequence": "AUGUGGUCGAUGAUGAUGAAUGUCUAAUCCCAGCUCUAUGAGACCUUUUUGAAAAGGUCUGGGAAUUGAAUCAUAAUCCAACAUUUAUCUGAGCCCUCUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C2E485/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C2E485/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

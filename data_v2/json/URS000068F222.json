@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000068F222?format=json",
+    "rnacentral_id": "URS000068F222",
+    "md5": "075fbd44d63bd61f29fba7ddd6814984",
+    "sequence": "GGGUUUCAGCAACACAUACACUAAAACUGGAAUGAUACAGAGAUUAGCAGAGCCCCUGAGGAAGGAUGGCAUGCAGAUCCAUGAAGCAUUCCACAUGUAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000068F222/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000068F222/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A9619A?format=json",
+    "rnacentral_id": "URS0000A9619A",
+    "md5": "8c06a954a27de4cd337918b8224c5313",
+    "sequence": "GGCUGGCCCAAGUGCAGUGGUGUUGACAACUAAUUGAUCACAACCAGUUACAGAUUCCUUUGUUCCUUCUCCGCUCUCACUGCUUCACUUGACUAGAAUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A9619A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A9619A/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 1 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

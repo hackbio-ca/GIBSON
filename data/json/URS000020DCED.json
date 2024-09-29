@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000020DCED?format=json",
+    "rnacentral_id": "URS000020DCED",
+    "md5": "be86cc34023a6d47326e6b98ed5f5423",
+    "sequence": "GAAGCGGUGGCUCAAUGGUAGAGCUUUCGACUCCAGUUAAAGUCUGGAUUAACCGGAAUUGGCAAUCGAAGGGUUGCAGGUUCAAUUCCUGUCCGUUUCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000020DCED/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000020DCED/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

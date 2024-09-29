@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C4BDCD?format=json",
+    "rnacentral_id": "URS0000C4BDCD",
+    "md5": "88daac51a2e29c808c845cca49ac9ca2",
+    "sequence": "GGGUCAGCUUUAGCUCAAGCGGUUACUUCGGUUUCUGCUCAGUGCGGACACAUAACCCUACCUUGGGGCUCGAGACCUGCGGGCGCUUCCUGACCCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C4BDCD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C4BDCD/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 1 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

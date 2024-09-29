@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00027934AB?format=json",
+    "rnacentral_id": "URS00027934AB",
+    "md5": "c477d1de7366f3a6e02a932912fe62cc",
+    "sequence": "GUUUGCACUUGUCGGGGAAGGGUGAGAACCUUCGAUUAAGGUUCGACUCGAGCGAAAGCGAGAGAACGUUGCCAACGGCAACGGCCCGUAGGGUGAGGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00027934AB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00027934AB/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

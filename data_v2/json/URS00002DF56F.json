@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00002DF56F?format=json",
+    "rnacentral_id": "URS00002DF56F",
+    "md5": "77bd7a2d8e297f6ccd664cd180c2558a",
+    "sequence": "UGUGUCUAAAUCUCUCACCAAAGAAGAAUGCGGCUAGCGUUGUCCAGUCUCUUCGUAUUUGUGGGUGACGCGGACGAUAGAGGCAGCUGCGAUCUGAUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00002DF56F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00002DF56F/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RefSeq",
+        "WormBase"
+    ]
+}

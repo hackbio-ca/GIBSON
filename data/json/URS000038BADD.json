@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000038BADD?format=json",
+    "rnacentral_id": "URS000038BADD",
+    "md5": "d436c8f3830fed290f16a9272bce0ea5",
+    "sequence": "GUCCCAGUGGCCGAGUGGUUAAGGCGAUGCCCUGCUAUUUCCAUAAUUAGCAACAAGGCAUUGGGUUUUACCUGCGCAGGUUCGAAUCCUGUCUGUGACG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000038BADD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000038BADD/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

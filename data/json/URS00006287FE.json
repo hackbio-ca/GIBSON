@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006287FE?format=json",
+    "rnacentral_id": "URS00006287FE",
+    "md5": "d787e54b65fe945d9bcd8897af5998c2",
+    "sequence": "CGUUAGGCCAUAUGGCAAUAGCGAACUUAUGAAUCGAGUCAGGUCCGGAAGGAAGCAGCUAUAAGUAAUGUUCGCUAUGUGCUGUAUGUACAUAGAAGAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006287FE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006287FE/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 5 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 5,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

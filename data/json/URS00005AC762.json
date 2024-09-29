@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00005AC762?format=json",
+    "rnacentral_id": "URS00005AC762",
+    "md5": "0bd6a8f558d8ed873ed07645cd1ffb95",
+    "sequence": "UGUUGACGAUUAUCAUGUUGAGGCAGUGGAGGAUGAGCAGGAAGGUAACCCAGUUGGGGGUAAAGCGGGUUCAUUUUCCGCUGUUUCAGCAUGCGAAUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00005AC762/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00005AC762/publications?format=json",
+    "is_active": true,
+    "description": "miRNA from 1 species",
+    "rna_type": "miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

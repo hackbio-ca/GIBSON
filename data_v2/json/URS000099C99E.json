@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000099C99E?format=json",
+    "rnacentral_id": "URS000099C99E",
+    "md5": "e67c58a2f9cc4ada8e082a9c29448b2b",
+    "sequence": "GGGCUGGCCAUAUAGCUCAGCGGUUCCUUCUCAAAACUCUGAUUUAAACAGACCAAUCCUCUCGGGGGUUUGAAACCCGCGGGCGCUAUCCAGCCUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000099C99E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000099C99E/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 2 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

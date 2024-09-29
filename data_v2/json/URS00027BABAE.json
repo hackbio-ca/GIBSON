@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00027BABAE?format=json",
+    "rnacentral_id": "URS00027BABAE",
+    "md5": "e4c3df978143df25248c5c82dc5658b7",
+    "sequence": "GGGUAAGUCCUUCACGACCAGCUCCUAUUGAAUCCCCCAGGGUAGGAAUACAGCAAGGGUAAGGUGGUUGUAGCGGUGCGAUGAAGUUUGCUUGCCCUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00027BABAE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00027BABAE/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

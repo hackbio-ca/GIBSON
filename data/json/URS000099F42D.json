@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000099F42D?format=json",
+    "rnacentral_id": "URS000099F42D",
+    "md5": "150b04ae286cc8b6c80752372f9a3cf6",
+    "sequence": "GUUAAAGUGCCCGAUGUGACGCUCAUCAGAGCCCACAAAAGGUGUUGGUUGAUAUAGACAGCAGGACGGUGGCCAUGGAAGUCGGAAUCCGCUAAGGAAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000099F42D/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000099F42D/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000067E364?format=json",
+    "rnacentral_id": "URS000067E364",
+    "md5": "1efbc0e65a9d400c55d4f25db9798b3d",
+    "sequence": "GGCUGGUCCAAGUGCAGUGAUAUUUACAACAAAUUGAUCACAAGUUAACAGAUUUAUUUGUUCCUCUUCCACUCCUACUAUUUCACUUGACUAGCCUUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000067E364/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000067E364/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 6 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 4,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl",
+        "GeneCards",
+        "Rfam"
+    ]
+}

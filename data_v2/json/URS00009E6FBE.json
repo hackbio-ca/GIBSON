@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00009E6FBE?format=json",
+    "rnacentral_id": "URS00009E6FBE",
+    "md5": "d77c841a9af2ab4daa6cf4d2b0a5f1e4",
+    "sequence": "UGGUUUGCCGGAGUAGCAUCAUCAAGAUUCACAUGCAAGAUGCAAGAUGCAAGAUGCAAUUAAGUAGUGAGAAUCUUGAUGAUGCUGCAUUGGCAAUCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00009E6FBE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00009E6FBE/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants"
+    ]
+}

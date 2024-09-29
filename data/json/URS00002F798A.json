@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00002F798A?format=json",
+    "rnacentral_id": "URS00002F798A",
+    "md5": "d2208fbe72a23a578acb3cbe5ff71a09",
+    "sequence": "UAAGGUCACGGCAAGACGAGCCGUUUUUCACGAUAGGUGCCAAGUGGAAGUGCAGUAAUGUAUGUAGCUCAGGCAUCCUAACAGACCGAGAGAUUUGAAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00002F798A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00002F798A/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 3 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

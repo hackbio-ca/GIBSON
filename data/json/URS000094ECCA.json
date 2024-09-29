@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000094ECCA?format=json",
+    "rnacentral_id": "URS000094ECCA",
+    "md5": "114e6cc52a69a8b5ecdb5224b3e5e660",
+    "sequence": "ACCCCCCAAUUAGGCGAUAUCUAGCAGAAUUCGUGUACGAUCUAAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGCAUCAUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000094ECCA/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000094ECCA/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 0 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

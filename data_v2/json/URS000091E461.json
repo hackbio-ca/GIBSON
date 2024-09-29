@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000091E461?format=json",
+    "rnacentral_id": "URS000091E461",
+    "md5": "1bbb001b02ef53f0ad2c0dc2a919709d",
+    "sequence": "GACUCCAGACACAAGAGACUAAAAUCAGAGGAUACAUAGAAGAUUAGCAAGACCCCUGCACAAGGGUGACACAUAAAUUCAUGAAGUACUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000091E461/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000091E461/publications?format=json",
+    "is_active": false,
+    "description": "snRNA from 0 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

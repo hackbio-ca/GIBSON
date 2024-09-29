@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00026A1183?format=json",
+    "rnacentral_id": "URS00026A1183",
+    "md5": "fbe51b27fee2e90f10e2a6360661db31",
+    "sequence": "UGUCGGAGUGCCCAUUUUCCACACUGGAAAAGGCUGAGACCGUUAAUUCGGGAUCCGCGGAACCUGAUCAGGCUAAUACCUGCGAAGGGAACAAGAGUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00026A1183/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00026A1183/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

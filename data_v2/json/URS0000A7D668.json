@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A7D668?format=json",
+    "rnacentral_id": "URS0000A7D668",
+    "md5": "6bab407a228fc097b396b857615d6f64",
+    "sequence": "GAAAUGCCUCCAUGAGACCCAGCUGUAAGGCAUUUUCUCAAUUAGUGAUGAAGGGGAAGGGCCCCUUGUGGGUGGCACCAUCACUGGGCUGGUAGUCUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A7D668/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A7D668/publications?format=json",
+    "is_active": false,
+    "description": "miRNA from 14 species",
+    "rna_type": "miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

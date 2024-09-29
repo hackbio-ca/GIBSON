@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AF6714?format=json",
+    "rnacentral_id": "URS0000AF6714",
+    "md5": "f40c7639afe7dd47400e0600ee0b49ca",
+    "sequence": "GCGCGUGGUUUAGUGGUAUAAUUCUUGCUUAGGGAUUUAUCUAUCUUUGACUGAUUGAUUCUCCAUGUAAGAGGUCCCCGGUUCAAUCCCGGGCAACGCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AF6714/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AF6714/publications?format=json",
+    "is_active": false,
+    "description": "tRNA from 0 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

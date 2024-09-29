@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000056E960?format=json",
+    "rnacentral_id": "URS000056E960",
+    "md5": "755ec0e26a4ff1308ce2d702bd2f6d67",
+    "sequence": "UCCGAAUUAGUUUAGUGGCUAUGACGGCGCCUUGUCACUUAGUUGACGCUUCUCCGCGCAGGAAUCGGCGCAGACCCGGGUUCAAUUCCCGGAUUCGGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000056E960/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000056E960/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

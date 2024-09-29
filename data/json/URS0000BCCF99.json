@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BCCF99?format=json",
+    "rnacentral_id": "URS0000BCCF99",
+    "md5": "1e8e16f44fbc9f7622271fc8323469d2",
+    "sequence": "GGCUGGUCCGAUGGCAGUGGGUUAUCAGAACUUAUUAACAUUAGUGUCACUAAAGUUGGUAUGCCACCCCCGCCCCACUGCUAAAUUUGACUGGNNNUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BCCF99/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BCCF99/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 1 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BDEC73?format=json",
+    "rnacentral_id": "URS0000BDEC73",
+    "md5": "e743dea9772a19e8c65347f8172a2fb3",
+    "sequence": "GAUGGUGAUCUAGCCCUUUAGUUUUGAGGUUGGUGUACUGUGUGUGAGUAUACAUAUUUAUCACACACAGUCACCAUCUUCGAAAGUGAGGGUGCACAUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BDEC73/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BDEC73/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

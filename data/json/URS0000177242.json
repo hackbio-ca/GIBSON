@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000177242?format=json",
+    "rnacentral_id": "URS0000177242",
+    "md5": "40c5f89aee0131fa2e3a468898f39b7f",
+    "sequence": "UGGCGGCCUUAGCGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000177242/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000177242/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 60 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 60,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

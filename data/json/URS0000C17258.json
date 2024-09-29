@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C17258?format=json",
+    "rnacentral_id": "URS0000C17258",
+    "md5": "24dc855a7b322e2668045b29428e3e2e",
+    "sequence": "UUGACCGAAGAGGGGGUGCCACUCCGUUGAGUGAGCUGAGAUUAUACCCGUAUAACCUGAUGCAGAUAAUGCUGCCGUAGGAAGUGCGAAUAUACAUAAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C17258/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C17258/publications?format=json",
+    "is_active": false,
+    "description": "ncRNA from 1 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

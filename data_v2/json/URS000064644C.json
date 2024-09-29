@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000064644C?format=json",
+    "rnacentral_id": "URS000064644C",
+    "md5": "99df88f1749a1b2d2ebbbfa14edfe853",
+    "sequence": "UCACGGAGAAACUCACGGCAAAAGUUUCGGUACAUAUCCUGCACAGUUUCAGUUCUCGCAGAGUACGCAAAAAAACAAUUUUGACGUGAGUGCUCUACAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000064644C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000064644C/publications?format=json",
+    "is_active": false,
+    "description": "pre_miRNA from 19 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa",
+        "Rfam"
+    ]
+}

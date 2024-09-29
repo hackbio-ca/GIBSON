@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000035FC2A?format=json",
+    "rnacentral_id": "URS000035FC2A",
+    "md5": "5636b129ad1d7eeb0851ee3b080847ad",
+    "sequence": "CUUGUGAACUGCAGGACACAUGAACAUCGACAUUUCGAACGCACAUUGCGGUCCUCGGAUUCUGUUCCCGGACCACUCCUGGUGGUGCCCUUCCGUCAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000035FC2A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000035FC2A/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

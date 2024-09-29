@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000661FC9?format=json",
+    "rnacentral_id": "URS0000661FC9",
+    "md5": "972c87fc57ea63722e75930280aa5c9e",
+    "sequence": "UCCUCAGAAGAAUAGGCUUGUUGUUUUACAGUGUUAGUGAUCCAUUCCCUUUGACGAUCCCUAGGUGGAGAUGGGGCAUGAGGAUCCUCCAGGGGAAAAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000661FC9/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000661FC9/publications?format=json",
+    "is_active": false,
+    "description": "lncRNA from 0 species",
+    "rna_type": "lncRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000927BC1?format=json",
+    "rnacentral_id": "URS0000927BC1",
+    "md5": "54e53c87daa7c6590003d262d51c4610",
+    "sequence": "GCCUACGGGCAUUUGGUCAAUUUGAAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCACUAAGGAUGACACGCUCAAUCAAAGAGAAGCUACCAAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000927BC1/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000927BC1/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 3 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

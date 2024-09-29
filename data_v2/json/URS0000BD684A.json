@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BD684A?format=json",
+    "rnacentral_id": "URS0000BD684A",
+    "md5": "8a86658778270158177212458697d81a",
+    "sequence": "GUCCUCAAGCAGCAUAUAUACUAAAACUGGAACAAUUCAGAGAUCAGUAUGGCCCCUUCAAAAGGAUGGCACACAAAUCUGUGAGGUGUCGCAUAUUACA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BD684A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BD684A/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000927CF?format=json",
+    "rnacentral_id": "URS00000927CF",
+    "md5": "cb72286b1e3e0da5546e9f420c63d392",
+    "sequence": "CAUCAUCGGUCCGGUGUUGAUGGGUUAUUAUCCUGUGGUGCUUGUCGUCGCUGAUCACAUUCACCGUCCUCUACACAUCAUCACAAAUUUGACCGAUGUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000927CF/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000927CF/publications?format=json",
+    "is_active": true,
+    "description": "misc_RNA from 1 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

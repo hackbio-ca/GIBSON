@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BFC47E?format=json",
+    "rnacentral_id": "URS0000BFC47E",
+    "md5": "c9e34275ff4de07511b929f3a13b7855",
+    "sequence": "CUUUCGGGAACAUCCGAUAAAAUUGGAACAAUAUAGAGAACACCAUCAUGGCUCCUGGGCAAGGAUAAUAUGCACAAAUGGAGAAAUGGUCCAAAAUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BFC47E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BFC47E/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

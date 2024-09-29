@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C2197E?format=json",
+    "rnacentral_id": "URS0000C2197E",
+    "md5": "38a6ca0e9fc1ee9ab0a537fbae23e370",
+    "sequence": "GAAUUAGAGUGAUAUUGGCACGGCUCAAUCAGAGAUAAGAUUACGAUUCAACCGUAGAAAUACCAUCAGAUUGAACCUCACCAAUAUCACUUCUUAUUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C2197E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C2197E/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

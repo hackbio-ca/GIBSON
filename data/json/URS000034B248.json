@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000034B248?format=json",
+    "rnacentral_id": "URS000034B248",
+    "md5": "dfb8bb9afe369e4c261eb557b11e30f7",
+    "sequence": "UAAGGUCACGGCAAGACCAGCCGUUUAUCACGAUAGGUGCCAGGUGGAAGUGCAGUAAUGUAUGUAGCUCAGGCAUCCUAACAGACCGAGAGAUUUGAAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000034B248/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000034B248/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 2 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000872C3?format=json",
+    "rnacentral_id": "URS00000872C3",
+    "md5": "244bc9afc43c7ce0aef73824d335372d",
+    "sequence": "AUGUCCCCAUGAGUUCCCUUUAACGCUUCAUUGUUAAAUACUCAAAGCCACAUUGGUUUGUAUACAACACUGAAGUGUUUGGGGGGACUCUUGGUGUCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000872C3/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000872C3/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 4 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants",
+        "miRBase",
+        "RefSeq",
+        "Rfam"
+    ]
+}

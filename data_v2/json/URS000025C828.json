@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000025C828?format=json",
+    "rnacentral_id": "URS000025C828",
+    "md5": "8d48351b88a53411f18bdd493ae146dd",
+    "sequence": "AGCGAGUCGAGCGUUAAGCGAGGCUUGCGAAAUAUUUAAAACCCCACUCUUUUUAACCUUAAAAAAUAAAUCAUGAUACAUGAAUUUAAAAAAAAAAGAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000025C828/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000025C828/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

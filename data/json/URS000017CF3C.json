@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000017CF3C?format=json",
+    "rnacentral_id": "URS000017CF3C",
+    "md5": "49b9267c322a333098ea6a8be5c18805",
+    "sequence": "CACACCGCCCGUCACAUCAUGAAAGCCGGUUGUACCCGAAGUCCACUCUGUUAACCCGCAAGGGGGACAGUGGCCGAAGGUAUGGCUGGUGAUUGGGAUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000017CF3C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000017CF3C/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

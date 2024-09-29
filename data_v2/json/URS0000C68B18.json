@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C68B18?format=json",
+    "rnacentral_id": "URS0000C68B18",
+    "md5": "bf79fb280c2c54b0247b4cf6d856f0a4",
+    "sequence": "GGCACUUUGGCGGAGUGGUUAACGCGAUGCCCUGCUAUGCAUGAACAUGUAAGCUAAGGCAUUUCCUUCGGGAGCGUGUGUUCGAAUCACACAGGUGUCG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C68B18/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C68B18/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

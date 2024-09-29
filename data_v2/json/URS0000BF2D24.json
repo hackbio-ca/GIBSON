@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BF2D24?format=json",
+    "rnacentral_id": "URS0000BF2D24",
+    "md5": "839f703d98fdbe6139ed19f6b660e69e",
+    "sequence": "AUGUUUCCUAGAGUUCCUUUGAGCACUUCAUUGGAUAUACCAUUUUCUAUCAAAAUUAAAUGUAUUCCACUGAAGUGUUUGGGGGAACUCCUGGACUCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BF2D24/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BF2D24/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 2 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "Rfam"
+    ]
+}

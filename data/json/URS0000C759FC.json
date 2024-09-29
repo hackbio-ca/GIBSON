@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C759FC?format=json",
+    "rnacentral_id": "URS0000C759FC",
+    "md5": "d7e50aef19f112121f8e9e79b27b3673",
+    "sequence": "AUAGGGGGCUGGAAGGCUAAAGUCACGACGUCCUGGGGCUGCGCAUACUCGCCCCACCAAAACCAUUGUCGCAACGCCUUCAUGACCAACAUCGUGUUGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C759FC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C759FC/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

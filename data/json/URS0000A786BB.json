@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A786BB?format=json",
+    "rnacentral_id": "URS0000A786BB",
+    "md5": "0417184033ce9944f9c8a81242843dda",
+    "sequence": "GUCUACAAAUAUACCGUACUGAGAACCCUUGAAUUCCUCUUAGAAGGUAAGCAGGGUUGGCCCUGGUUAGUACUCGCUGGAAAACUAGAUUCUGUUUUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A786BB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A786BB/publications?format=json",
+    "is_active": false,
+    "description": "rRNA from 10 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

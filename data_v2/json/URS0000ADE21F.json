@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ADE21F?format=json",
+    "rnacentral_id": "URS0000ADE21F",
+    "md5": "c65086993a11fe35946d337010ba0f07",
+    "sequence": "GGCCAGGCCCGCCGCAACGGAAGGCGGCAAACCCCGUCAGGUCCGGAAGGAAGCAGCGGUAGCCGCACAGCUCCGUGUGCCGGCGGCUCCCCUGGCUGCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ADE21F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ADE21F/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 1 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

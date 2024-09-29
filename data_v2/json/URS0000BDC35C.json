@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BDC35C?format=json",
+    "rnacentral_id": "URS0000BDC35C",
+    "md5": "ca83da82ca2b64839954bdd2eb2ab90f",
+    "sequence": "GGGCUGGCUUUAGCCCGCGGUUCCUUUGAGUCUGGCUUCCCAAUUGCCCUGGCCGAUUAGUCUGGUGGUUCGAGACCCGCGGGUUCUCUCCAGUCCUUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BDC35C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BDC35C/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 1 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

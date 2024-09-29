@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00005DCE8E?format=json",
+    "rnacentral_id": "URS00005DCE8E",
+    "md5": "1d66d84d0fe7b7b3689e9e5455356e11",
+    "sequence": "CCUUCGAUAGCUCAGUUGGUAGAGCGGUGGACUGUAGAUGUGCUUCGGCAAGCUCUCAAUAGUAAUCCAUAGGUCACUGGUUCAAAUCCGGUUCGAAGGA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00005DCE8E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00005DCE8E/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000001BCF8?format=json",
+    "rnacentral_id": "URS000001BCF8",
+    "md5": "83684dadeed498f9899ee5583311f7b0",
+    "sequence": "AAAAAAAAAUAAUCUUCCGUUGCGGGGAAUCGAACCCCGGCCUUAUGGGUGAGAGCCAUAAAUCCUAACCACUAGACCACAACGGAGCGUGGGAAAGUGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000001BCF8/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000001BCF8/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "RefSeq",
+        "WormBase"
+    ]
+}

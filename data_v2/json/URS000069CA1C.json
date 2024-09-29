@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000069CA1C?format=json",
+    "rnacentral_id": "URS000069CA1C",
+    "md5": "b9c9bf1478ff1446d6371c492cdac592",
+    "sequence": "ACUGUCACUGCCUACCAAUCUCGACCGGACCUCGACCGGCUCGUCUGUGUUGCCAAUCGACUCGGCGUGGCGUCGGUCGUGGUAGAUAGGCGGUCAUGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000069CA1C/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000069CA1C/publications?format=json",
+    "is_active": false,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 9,
+    "distinct_databases": [
+        "GeneCards",
+        "MalaCards"
+    ]
+}

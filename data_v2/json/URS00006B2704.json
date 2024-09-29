@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006B2704?format=json",
+    "rnacentral_id": "URS00006B2704",
+    "md5": "96c7ceb7e534e25a2b4f178e97c475fc",
+    "sequence": "CAAAGACAACCCACCAGCGAGGUAUAGAGUUCCUAUGUGCCCACUAGGCCGUUCGCUACUCAUAGGAACUUCAUACCGUGCUCUUGGAUUGCUCUCAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006B2704/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006B2704/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 2 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

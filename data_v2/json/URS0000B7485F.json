@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000B7485F?format=json",
+    "rnacentral_id": "URS0000B7485F",
+    "md5": "754d1b36cc6b96dcf65113289ab36ea1",
+    "sequence": "GUGCUCGCUUUGGCAGCACAUAUGCUAAAAUUGGAACAAUACAGAGAAGAUUAGCAUGGGCCCUGAGCAAGGAUGACACGCAAAUUCGUUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000B7485F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000B7485F/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl"
+    ]
+}

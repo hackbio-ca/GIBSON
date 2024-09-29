@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000095E644?format=json",
+    "rnacentral_id": "URS000095E644",
+    "md5": "941c86ea41ab171fb628e5f7ca2267b4",
+    "sequence": "GCCUACGGGCAUUUGGUAAAUUCGAAAAGAUACAGAGAAGAUUAGCAUGGCCCCUGCACUAAGGAUGAUACGCUCAAUCAAAGAAAAGCUACCAAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000095E644/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000095E644/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Fungi",
+        "Rfam"
+    ]
+}

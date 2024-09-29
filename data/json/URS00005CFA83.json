@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00005CFA83?format=json",
+    "rnacentral_id": "URS00005CFA83",
+    "md5": "17f80135973254984bc18e39d0c6fed4",
+    "sequence": "UGGCUCGACGAGUUGCUGGCCGGCGAAGGCGUCGCCGAUGCCCGCGGCGAGGUCUGGCUGCAGACCUAUCCGCGCGUGCUCGGCUACGUGUUCAAGCCGG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00005CFA83/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00005CFA83/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

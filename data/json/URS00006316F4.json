@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006316F4?format=json",
+    "rnacentral_id": "URS00006316F4",
+    "md5": "c63e4dc8b8a22b3c27cbd2f45198847d",
+    "sequence": "GGCUGCAGGUCUCAGUGAUGUUUACAAGUAAUUGAUCACAACCUAUUACAGAUUUCUUUGUUUCUUCUCUACUCCCACUGCUUCACUUGACUAGCCUAAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006316F4/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006316F4/publications?format=json",
+    "is_active": true,
+    "description": "Y_RNA from 8 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 7,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

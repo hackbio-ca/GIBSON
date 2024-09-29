@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000275FEEB?format=json",
+    "rnacentral_id": "URS000275FEEB",
+    "md5": "9a9cc83305ecd21e925bb8b1b54a0cc8",
+    "sequence": "AAAUUGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGGCCUAACACAUGCAAGUCGAGCGGUAGCACAGAGAGCUUGCUCUCGGGUGACGAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000275FEEB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000275FEEB/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 2 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

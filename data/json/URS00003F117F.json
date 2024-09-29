@@ -1,0 +1,20 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00003F117F?format=json",
+    "rnacentral_id": "URS00003F117F",
+    "md5": "d549d097a3b33819e11a83d6da9d4cb4",
+    "sequence": "AUGUCCUCUAGAGUUCUCCUGAACACUUCAUUGGAAAUUUGUUAUUCAGUAAGCUAACAGUUAAUUCCACUGAAGUGUUUGGGGGAACUCCCGAUGUCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00003F117F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00003F117F/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 4 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Plants",
+        "miRBase",
+        "RefSeq",
+        "Rfam"
+    ]
+}

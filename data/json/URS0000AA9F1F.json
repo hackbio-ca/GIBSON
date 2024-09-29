@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AA9F1F?format=json",
+    "rnacentral_id": "URS0000AA9F1F",
+    "md5": "a1ad54a0f4589ac7df146ebba6c3cda5",
+    "sequence": "AGUUGUUGUCCCUUGUGAGCACAUGCUUCCUUAUAUCCCCAUAUUAAUACGCCACUUAUGGAAUGUAAGGAAGUGUGUGGUUUCAAGGGGACCUGAGCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AA9F1F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AA9F1F/publications?format=json",
+    "is_active": false,
+    "description": "precursor_RNA from 0 species",
+    "rna_type": "precursor_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

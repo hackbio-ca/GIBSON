@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000D564A5?format=json",
+    "rnacentral_id": "URS0000D564A5",
+    "md5": "f0cb535d0c431e37116040959eaf60b1",
+    "sequence": "UGCCUGGCUCCCUGUAUGCCACUCGCUUAGCUGCCAACAACUCAUACUACGUUGUUAACGACGUUGGCUCUACUGCGGAUGGCGUGCGAGGAGCCAAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000D564A5/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000D564A5/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants",
+        "miRBase"
+    ]
+}

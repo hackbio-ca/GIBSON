@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A64668?format=json",
+    "rnacentral_id": "URS0000A64668",
+    "md5": "f8b2026359942924eb84677b837af9e6",
+    "sequence": "CUAUAUUCUGGAGGAGUGCUGCCUGAGAACACGCGUGCAUUUGGAAGCUUGAUGCUCUUAGAAUACACUUGUGUUCUCAGGUCACCCCUUUAGAAAAUAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A64668/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A64668/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Plants"
+    ]
+}

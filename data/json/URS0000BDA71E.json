@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BDA71E?format=json",
+    "rnacentral_id": "URS0000BDA71E",
+    "md5": "b6f5bf49a9feba387b1516b9bdefc32f",
+    "sequence": "GCCUAUAGCCAUACCACCCUGAAAGCACCUAGUCUCAUCUGAACUCAGAAGCGAAGCAGAGUGGGUCCCUGCUAUAAAAUUCUUGCUGGGGAUAUAUUUC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BDA71E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BDA71E/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

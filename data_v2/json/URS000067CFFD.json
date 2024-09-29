@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000067CFFD?format=json",
+    "rnacentral_id": "URS000067CFFD",
+    "md5": "6e425f4775f302d6c03eb41d7e780c1f",
+    "sequence": "ACUGCAGUAGUGUAAAAUAGAGAGAUGUUAGAUAUAGAGAAGAUUAGCAUUGCCCCUGUGUGAGGAUGACAUACAAAUUCGUGAAGUGUUCCAUAUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000067CFFD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000067CFFD/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 1 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

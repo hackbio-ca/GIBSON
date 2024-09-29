@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006E784E?format=json",
+    "rnacentral_id": "URS00006E784E",
+    "md5": "087c6526a2c47c4f49743e7a8c0c1f96",
+    "sequence": "CUGCUUUAAUAGCACAUGUAUUAAAAUUAGAAUGAUAUGAAGAUUAGCAUGUUCGCUGCACUAAUAUGACAUGCAAAUCUGCAAAGUAGUGACUGCUUUG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006E784E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006E784E/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 2 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl",
+        "Rfam"
+    ]
+}

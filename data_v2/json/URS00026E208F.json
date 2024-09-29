@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00026E208F?format=json",
+    "rnacentral_id": "URS00026E208F",
+    "md5": "33b546ad75630ed6c844917dfb5245f0",
+    "sequence": "AAACUGCAGUACAAAUGUCAUUGAAAAUCGCAAUUAUGCUGCUAAGAUUGUUUUGCCGAAUUCAUUGAAUCUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00026E208F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00026E208F/publications?format=json",
+    "is_active": true,
+    "description": "ribozyme from 1 species",
+    "rna_type": "ribozyme",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000DA1495?format=json",
+    "rnacentral_id": "URS0000DA1495",
+    "md5": "a8ae9e7414feef4d415de589e9ef047e",
+    "sequence": "AUAAUGGUACGGUGCGACCGGACGAUGGUUCACAACGACCGUUUUUUUCUAACAUUGGUCGGUGGGACUUUCGUCCGUUUGUAACGCCAUUAUUCAACGU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000DA1495/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000DA1495/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 2 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

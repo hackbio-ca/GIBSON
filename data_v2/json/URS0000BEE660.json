@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BEE660?format=json",
+    "rnacentral_id": "URS0000BEE660",
+    "md5": "62e4c2aef534be244fe16db29b190677",
+    "sequence": "UGCCAUGAUGUUGUAAUUUGCGUCUUACUCUGUGCUCAGUGACGGUUGCCUGCUGUCAGCAUACUGGUACAGAUGAUUGACGAGCAGUUAAUGCUGAGCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BEE660/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BEE660/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 1 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

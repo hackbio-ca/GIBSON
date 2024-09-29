@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000065AE54?format=json",
+    "rnacentral_id": "URS000065AE54",
+    "md5": "204d616080a95d71b35c81e3e8e2c58a",
+    "sequence": "AUCUAUGGCCAUAUCACCCUGAUCCUGGAAGCUAAGCAAGGUUGGGCCUGGCCAGUACUUGGACGUGAGAUGACCUGGGAAUACUGGAGUACUGUAGACU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000065AE54/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000065AE54/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 6 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 6,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

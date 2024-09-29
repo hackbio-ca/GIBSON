@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000270C78A?format=json",
+    "rnacentral_id": "URS000270C78A",
+    "md5": "56318b52b84ff4e52f445606a0149424",
+    "sequence": "UGGUCACUAUGAUGUUGGCUCGACUCACUCAGACCACGCCGGAGGGAGCCAUCUGCGGCGGCGGUUCUGAUUGAGCCGUGCCAAUAUCUUAGUGCUCUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000270C78A/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000270C78A/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

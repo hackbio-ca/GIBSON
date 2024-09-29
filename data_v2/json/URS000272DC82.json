@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000272DC82?format=json",
+    "rnacentral_id": "URS000272DC82",
+    "md5": "71a67bee46a6531c4c5d35d631dc0505",
+    "sequence": "GGGCCAGCUUAGCCUAGCGGUUACUUCGACUCUACAUUUGUCAGACUCUCUAAUUGCUUAACGGCAGUUUGAUACCCCGCAGGCGCUGUCUGGUCUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000272DC82/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000272DC82/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 1 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

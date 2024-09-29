@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000A889DE?format=json",
+    "rnacentral_id": "URS0000A889DE",
+    "md5": "a8302e51eb93af6fcd70017892c91be4",
+    "sequence": "GGCUGGUCCGAUUGCAGUGGUACUUAUAAUUAAUUGAUCACAGUCAGUUACAGGUUUCUUUGUUCUUUAUCAGUGUAACGGCAUCAAUUGCCACUCGUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000A889DE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000A889DE/publications?format=json",
+    "is_active": false,
+    "description": "Y_RNA from 11 species",
+    "rna_type": "Y_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}

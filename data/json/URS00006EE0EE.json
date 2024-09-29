@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006EE0EE?format=json",
+    "rnacentral_id": "URS00006EE0EE",
+    "md5": "7876906bfb99bfcc619176e803b06d42",
+    "sequence": "GGGCCGGCUUUAGCUCAGCAGUUACUUCAACAAUGCUUUCUAUAGCGGAAAACAAUCACUCUGCGUGGUUCGAGACCCGCGGGCGCUCUCCGGCCUUUAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006EE0EE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006EE0EE/publications?format=json",
+    "is_active": false,
+    "description": "vault_RNA from 0 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

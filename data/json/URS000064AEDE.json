@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000064AEDE?format=json",
+    "rnacentral_id": "URS000064AEDE",
+    "md5": "db85846d0055b1c4df4f346a1421dfe4",
+    "sequence": "UAUAGACCCCUCGCCACCCUGGGUGUGUUUGAUCUCAAAAGCUAAGCAGGGUUGGGCCUGGUCAGUACUUGGAUGUAAAAAAUACCAGGUGGGUUGUGGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000064AEDE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000064AEDE/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C35D5B?format=json",
+    "rnacentral_id": "URS0000C35D5B",
+    "md5": "5ef709d8f2f2db52d053aa2fca741793",
+    "sequence": "AAGGUAAUAGAUCAACCCCUUGAUUUAUCUAUCCCCUGAGUGAAACAACGAAUUGCUGUGUGUAGUCUUUGCCCAACUCCCACGUUGGGCUUUUUUUUGC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C35D5B/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C35D5B/publications?format=json",
+    "is_active": true,
+    "description": "other from 3 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 3,
+    "distinct_databases": [
+        "ENA",
+        "Rfam"
+    ]
+}

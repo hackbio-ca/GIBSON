@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00000445CE?format=json",
+    "rnacentral_id": "URS00000445CE",
+    "md5": "74a17d2f883f714b63022085297bf422",
+    "sequence": "UCGAAUCGAAGAACUGAGAUCGAUUGGUGCAUAGAUAUCAAGAGGACUCGCUAAUUUUCAACUCUAGCACCAUUCGAAAUCAGUGCUUUUGAUGAGAACC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00000445CE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00000445CE/publications?format=json",
+    "is_active": true,
+    "description": "ncRNA from 2 species",
+    "rna_type": "ncRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Metazoa",
+        "miRBase"
+    ]
+}

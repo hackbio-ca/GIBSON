@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000690588?format=json",
+    "rnacentral_id": "URS0000690588",
+    "md5": "0892c3fc1c8521ab433591f818c63a99",
+    "sequence": "GCGUCGGUUUAGCUCAGUGGUUACUUCUGGUCAUGUGUUUGCCUUCCCUCGGGCUCUUCUGGGGCCCUGAGUUCGACCACGGGCGCUGUCCGAUGCAUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000690588/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000690588/publications?format=json",
+    "is_active": true,
+    "description": "vault_RNA from 2 species",
+    "rna_type": "vault_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

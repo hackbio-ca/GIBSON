@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00006A46C3?format=json",
+    "rnacentral_id": "URS00006A46C3",
+    "md5": "c118a350e4b084da8d40972542ee6428",
+    "sequence": "GUGCUCACUUCGGCAGCACAUACACUAAAAUUGGAACGAGAAAGAGAAGGUUAGUGUGGCCCCCACGCAAGGUCGGCACGCAAACAUUUUCUAGCUUUAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00006A46C3/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00006A46C3/publications?format=json",
+    "is_active": true,
+    "description": "snRNA from 3 species",
+    "rna_type": "snRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "Ensembl",
+        "Rfam"
+    ]
+}

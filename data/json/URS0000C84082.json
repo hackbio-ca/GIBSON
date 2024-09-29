@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000C84082?format=json",
+    "rnacentral_id": "URS0000C84082",
+    "md5": "f32d8acc15e18ae1b871312c15216bbe",
+    "sequence": "CAAUAGCCCUGAUGGGAGCGGAAAUACUUUUUGGCACGGUUGGAUAAUUUGUGCUUGAAUGGACCUGCCAAAAAGAUUGGAGUGGACAGCAGGAAGGCAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000C84082/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000C84082/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

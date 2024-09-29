@@ -1,0 +1,19 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000487FD2?format=json",
+    "rnacentral_id": "URS0000487FD2",
+    "md5": "f560f6f924edc5cf9cd6322b8c6ba5f5",
+    "sequence": "UCCAACUCUAACAGUCCACCCGUACAUAUGUUUCCGUGCUUGACAGCGAAGCUCAAUCACGUUACAAUGAAAGGGUAGCCGGUUAUUGAAGUUGGGUCUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000487FD2/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000487FD2/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA",
+        "miRBase",
+        "RefSeq",
+        "WormBase"
+    ]
+}

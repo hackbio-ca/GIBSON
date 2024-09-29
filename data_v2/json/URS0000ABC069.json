@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000ABC069?format=json",
+    "rnacentral_id": "URS0000ABC069",
+    "md5": "14b2b746fcb5ebc1e9a15beca243b1c7",
+    "sequence": "CAAAUAGAGCGCUAGGGUUCCGGCCGCUGUAGCGGUGACUGGUCCGAGAGCACUCGACCUUUCAGACAAGGUUACACGGCGGGAUAAAAGCCCGGGAGAC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000ABC069/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000ABC069/publications?format=json",
+    "is_active": true,
+    "description": "sRNA from 1 species",
+    "rna_type": "sRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

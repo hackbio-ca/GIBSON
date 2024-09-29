@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0002685ACE?format=json",
+    "rnacentral_id": "URS0002685ACE",
+    "md5": "22de0e3af8bf3f064df29dff345194a4",
+    "sequence": "CGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGCUUCCCCAUGCGAGAGUAGGGAACUGCCAG",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0002685ACE/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0002685ACE/publications?format=json",
+    "is_active": true,
+    "description": "rRNA from 1 species",
+    "rna_type": "rRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

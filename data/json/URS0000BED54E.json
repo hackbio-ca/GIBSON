@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000BED54E?format=json",
+    "rnacentral_id": "URS0000BED54E",
+    "md5": "5b38af8c5db94133dfb5f7291c548c1a",
+    "sequence": "GCCCGGCUAGCUCAAUCGGAUAGAGCGUCAGACUCUUAUGAGUGUCGGGUUUCAUCAGACCGUCAUCUGAAGGCUGCGAGUUCGACCCUCGCGUUGGGCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000BED54E/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000BED54E/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 1 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Rfam"
+    ]
+}

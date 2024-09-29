@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000647CDB?format=json",
+    "rnacentral_id": "URS0000647CDB",
+    "md5": "9b5a35a54eaf368d2aa845021b5afb56",
+    "sequence": "GGGCGACUUAACCUGCAUUAAUGCCAACUUUUAGCGCACGGCUCUCUCCCAAGAGCCAUUUCCCUGGACCGAAUACAGGAAUCGUAUUCGGUCUCUUUUU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000647CDB/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000647CDB/publications?format=json",
+    "is_active": false,
+    "description": "other from 0 species",
+    "rna_type": "other",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

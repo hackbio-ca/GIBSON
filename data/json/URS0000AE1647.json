@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AE1647?format=json",
+    "rnacentral_id": "URS0000AE1647",
+    "md5": "9b844207f8ee68aa05e5de741c9a64ac",
+    "sequence": "GGGGAUGUUCGGAGGCUGGUGCCUCCCGCGGUCUUCAAAACCGUUUGCGGGGCGCUGUUGAGGCGUCCUGGGUGGGUUCGAUUCCCAUCCAUCCCCGCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AE1647/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AE1647/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

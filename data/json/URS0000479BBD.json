@@ -1,0 +1,17 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000479BBD?format=json",
+    "rnacentral_id": "URS0000479BBD",
+    "md5": "4752e5142e5f52ba786eb0aa42de5289",
+    "sequence": "GGUCCGUUGGUGUAAUGGGUAGCACACUCCCUUAAUUUCUUCCACGCCUCUUUUCUAAAUGUGGAGGGGAAAGGUACCGGUUCAACUCAGGUGCGGGCCA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000479BBD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000479BBD/publications?format=json",
+    "is_active": true,
+    "description": "tRNA from 2 species",
+    "rna_type": "tRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl Fungi"
+    ]
+}

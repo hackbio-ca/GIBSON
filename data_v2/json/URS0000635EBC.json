@@ -1,0 +1,18 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000635EBC?format=json",
+    "rnacentral_id": "URS0000635EBC",
+    "md5": "2814ae8fcc357f5cf531b16eb1fc7a73",
+    "sequence": "CCCCCAGAAUCUGUCAGGCACCAGCCAGGCAUUGCUCAGCCCCUUUCCCUCUGGGGGAGCAAGGAGUGGUGCUGGGUUUGUCUCUGCUGGGGUUUCUCCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000635EBC/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000635EBC/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 3 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 2,
+    "distinct_databases": [
+        "ENA",
+        "Ensembl",
+        "Rfam"
+    ]
+}

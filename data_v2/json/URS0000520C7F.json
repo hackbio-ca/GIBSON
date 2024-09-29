@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000520C7F?format=json",
+    "rnacentral_id": "URS0000520C7F",
+    "md5": "870d7b5baf88dc419c00eb16be60c810",
+    "sequence": "GAGUGACAAGAUCACCACCCUCGGUUAUGCACACGUUGCUUUGGCGCAGGCCAAUCUCAUCACACACUAUUUUUUAUCGUCUGAGCACUAUAUAACAUUA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000520C7F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000520C7F/publications?format=json",
+    "is_active": false,
+    "description": "misc_RNA from 0 species",
+    "rna_type": "misc_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0000AAD17F?format=json",
+    "rnacentral_id": "URS0000AAD17F",
+    "md5": "0e17210bef3becbecc6c60a61c55f65f",
+    "sequence": "UCGAGCCUGUGCCCAGCAGCCACUGAGAACCACGUCUGCUCUGAGCUGGGUACUGCCUGUUCAGAACAAACACCGGUUUCUAGAAUGCAGCCAAAUGGCC",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0000AAD17F/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0000AAD17F/publications?format=json",
+    "is_active": true,
+    "description": "pre_miRNA from 1 species",
+    "rna_type": "pre_miRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl"
+    ]
+}
