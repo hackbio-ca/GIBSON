@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00028BAAB0?format=json",
+    "rnacentral_id": "URS00028BAAB0",
+    "md5": "7c478665dba43b5c943794e35d1152e5",
+    "sequence": "UGGAGGUCACCAGGAUGCGAGACUUAAACUCAAGACUAAGCCUGUAGGGACUGUGACUGAAGUUUCUCGGACCCGGGUUCGAUUCCCGGCGCCUCCACAA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00028BAAB0/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00028BAAB0/publications?format=json",
+    "is_active": true,
+    "description": "tmRNA from 0 species",
+    "rna_type": "tmRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}

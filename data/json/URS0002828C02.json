@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS0002828C02?format=json",
+    "rnacentral_id": "URS0002828C02",
+    "md5": "19599e21ff79dd123ed32dbc9eb0a803",
+    "sequence": "AGCAAUGAUGUUUGUAAUUUGAGUCAGAUGACAAGUUAGGUGACAGUUGCAUUCUGUCAUAUGCCUUAUUGUCUAAAUGAUGAUGACAUUGUACUGAGCU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS0002828C02/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS0002828C02/publications?format=json",
+    "is_active": true,
+    "description": "snoRNA from 0 species",
+    "rna_type": "snoRNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "Ensembl Metazoa"
+    ]
+}

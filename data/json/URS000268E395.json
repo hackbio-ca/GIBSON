@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS000268E395?format=json",
+    "rnacentral_id": "URS000268E395",
+    "md5": "66786b4ea900e8897c2e1b7dde5814a2",
+    "sequence": "GACGACAACGCGCCUCUGUCAUAGGAAGGCAAACUAAACCUCUGGCGUGCGUUACCAUAAAGUUAAUGGCUUCUGGCGUGACAUGCUCUGCUGCCAUAAU",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS000268E395/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS000268E395/publications?format=json",
+    "is_active": true,
+    "description": "antisense_RNA from 1 species",
+    "rna_type": "antisense_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "MGNIFY"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "url": "http://rnacentral.org/api/v1/rna/URS00028C13FD?format=json",
+    "rnacentral_id": "URS00028C13FD",
+    "md5": "865d154a1215bfbae718cb26ed86e8e0",
+    "sequence": "GAUCGGGUCCCGCGCAGCGGCGAACCGCGAACCGUGUCAGGUCCGGAAGGAAGCAGCACUAAGCGAUCAUCGCCGGGUGCCGCGGAACGGCCUGAUCCGA",
+    "length": 100,
+    "xrefs": "http://rnacentral.org/api/v1/rna/URS00028C13FD/xrefs?format=json",
+    "publications": "http://rnacentral.org/api/v1/rna/URS00028C13FD/publications?format=json",
+    "is_active": true,
+    "description": "SRP_RNA from 0 species",
+    "rna_type": "SRP_RNA",
+    "count_distinct_organisms": 1,
+    "distinct_databases": [
+        "ENA"
+    ]
+}
