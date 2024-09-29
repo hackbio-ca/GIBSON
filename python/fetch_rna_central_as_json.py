@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import json
 
-# JLF
 # Fetches RNA sequences from RNAcentral for a given organism, sequence length range, and sequence type.
 # Stores each sequence as a json file. 
 
