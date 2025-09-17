@@ -1,6 +1,6 @@
 # GIBSON
 
-** Toronto Bioinformatics Hackathon, 2024**
+**Toronto Bioinformatics Hackathon, 2024**
 
 GIBSON: Gibbs-Based Interaction and Stability for RNA Network
 
